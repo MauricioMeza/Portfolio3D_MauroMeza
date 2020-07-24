@@ -1,0 +1,41 @@
+
+
+.intro-buttons-div{
+    padding: 560px 0px 15px
+}
+.intro-buttons{
+    width: 220px;
+    margin: 10px 20px;
+    color: #292927
+}
+.intro-back-header{
+   background-image: url("../../img/1\ Colegio\ Antiguo.png")
+}
+
+.msection{
+    padding: 75px 0px 100px
+}
+
+.desctext{
+    font-size: 18px
+}
+
+.port-hover{
+    width: 100%
+ }
+
+.soft-col{
+    padding-left: 8%;
+}
+.soft-row{
+    margin: 0px 0px 100px 0px
+}
+.soft-img{
+
+}
+
+.contac-button{
+    width: 300px;
+    margin: 10px 20px;
+    color: #292927
+}
