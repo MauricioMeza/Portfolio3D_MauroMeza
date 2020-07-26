@@ -1,4 +1,5 @@
 
+/* -------- Styles for index.html -------- */
 
 .intro-buttons-div{
     padding: 560px 0px 15px
@@ -39,3 +40,12 @@
     margin: 10px 20px;
     color: #292927
 }
+
+/* -------- Styles for portfolio.html -------- */
+
+.intro-buttons-div2{
+    padding: 150px 0px 15px
+}
+.intro-back-header2{
+    background-image: url("../../img/Computador.png")
+ }
