@@ -24,9 +24,10 @@
                     <ul class="nav navbar-nav ml-auto text-uppercase">
                         <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" href="#">Portafolio</a>
                             <div class="dropdown-menu" role="menu">
-                                <a class="dropdown-item" role="presentation" href="#">Renders</a>
-                                <a class="dropdown-item" role="presentation" href="#">Animacion</a>
-                                <a class="dropdown-item" role="presentation" href="#">Assets</a></div>
+                                <a class="dropdown-item" role="presentation" href="portfolio.html" onclick='loadGallery("Render")'>Renders</a>
+                                <a class="dropdown-item" role="presentation" href="portfolio.html" onclick='loadGallery("Animacion")'>Animacion</a>
+                                <a class="dropdown-item" role="presentation" href="portfolio.html" onclick='loadGallery("Asset")'>Assets</a>
+                                <a class="dropdown-item" role="presentation" href="portfolio.html" onclick='loadGallery("Sketchup")'>Sketchup</a></div>
                         </li>
                         <li class="nav-item" role="presentation"><a class="nav-link js-scroll-trigger" href="index.html#informacion">Informacion</a></li>
                         <li class="nav-item" role="presentation"><a class="nav-link js-scroll-trigger" href="index.html#software">Software</a></li>
@@ -39,9 +40,11 @@
         <header class="masthead intro-back-header2">
             <div class="container">
                 <div class="intro-buttons-div2">
-                    <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons"> Renders</button>
-                    <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons"> Animacion</button>
-                    <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons"> Assets</button>
+                    <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='loadGallery("all")'> Todos</button>
+                    <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='loadGallery("Render")'> Renders</button>
+                    <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='loadGallery("Animacion")'> Animacion</button>
+                    <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='loadGallery("Asset")'> Assets</button>
+                    <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='loadGallery("Sketchup")'> Sketchup</button>
                 </div>
             </div>
         </header>
@@ -67,6 +70,8 @@
                 </div>
             </div>
         </footer>
+        
+        <div id="modals"></div>
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>

@@ -23,9 +23,10 @@
                 <ul class="nav navbar-nav ml-auto text-uppercase">
                     <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" href="#">Portafolio</a>
                         <div class="dropdown-menu" role="menu">
-                            <a class="dropdown-item" role="presentation" href="#">Renders</a>
-                            <a class="dropdown-item" role="presentation" href="#">Animacion</a>
-                            <a class="dropdown-item" role="presentation" href="#">Assets</a></div>
+                            <a class="dropdown-item" role="presentation" href="portfolio.html#Render" >Renders</a>
+                            <a class="dropdown-item" role="presentation" href="portfolio.html#Animacion">Animacion</a>
+                            <a class="dropdown-item" role="presentation" href="portfolio.html#Asset" >Assets</a>
+                            <a class="dropdown-item" role="presentation" href="portfolio.html#Sketchup" >Sketchup</a></div>
                     </li>
                     <li class="nav-item" role="presentation"><a class="nav-link js-scroll-trigger" href="#informacion">Informacion</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link js-scroll-trigger" href="#software">Software</a></li>
@@ -38,9 +39,10 @@
     <header class="masthead intro-back-header">
         <div class="container">
             <div class="intro-buttons-div">
-                <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons"> Renders</button>
-                <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons"> Animacion</button>
-                <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons"> Assets</button>
+                <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='location.href="portfolio.html#Render"'> Renders</button>
+                <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='location.href="portfolio.html#Animacion"'> Animacion</button>
+                <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='location.href="portfolio.html#Asset"'> Assets</button>
+                <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='location.href="portfolio.html#Sketchup"'> Sketchup</button>
             </div>
         </div>
     </header>
@@ -257,6 +259,91 @@
             </div>
         </div>
     </footer>
+
+    <div class="modal fade portfolio-modal text-center" role="dialog" tabindex="-1" id="portfolioModal1">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content content">
+                <button class="btn btn-primary boton-cerrar" data-dismiss="modal" type="button"><i class="fa fa-times"></i><span>&nbsp;Cerrar</span></button>
+                <div class="modal-body">
+                    <img class="img-fluid d-block mx-auto" src="assets/img/p/7_TorobajoWIP5.png">
+                    <p class="project-info"> <b> Nombre: </b> Parque Torobajo </p>
+                    <p class="project-info"> <b> Tipo: </b> Render </p>
+                    <p class="project-info"> <b> Año: </b> 2020 </p>
+                    <p class="project-info"> <b> Info: </b> Cycles, Blender + GIMP </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade portfolio-modal text-center" role="dialog" tabindex="-1" id="portfolioModal2">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content content">
+                <button class="btn btn-primary boton-cerrar" data-dismiss="modal" type="button"><i class="fa fa-times"></i><span>&nbsp;Cerrar</span></button>
+                <div class="modal-body">
+                    <img class="img-fluid d-block mx-auto" src="assets/img/p/3_NavidadAulaFinal.png">
+                    <p class="project-info"> <b> Nombre: </b> Navidad Aula </p>
+                    <p class="project-info"> <b> Tipo: </b> Render </p>
+                    <p class="project-info"> <b> Año: </b> 2015 </p>
+                    <p class="project-info"> <b> Info: </b> Cycles, Blender + GIMP </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade portfolio-modal text-center" role="dialog" tabindex="-1" id="portfolioModal3">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content content">
+                <button class="btn btn-primary boton-cerrar" data-dismiss="modal" type="button"><i class="fa fa-times"></i><span>&nbsp;Cerrar</span></button>
+                <div class="modal-body">
+                    <img class="img-fluid d-block mx-auto" src="assets/img/p/1_ColegioRenovadoFinal.png">
+                    <p class="project-info"> <b> Nombre: </b> Colegio Javeriano Renovado </p>
+                    <p class="project-info"> <b> Tipo: </b> Render </p>
+                    <p class="project-info"> <b> Año: </b> 2016 </p>
+                    <p class="project-info"> <b> Info: </b> Cycles, Blender + GIMP </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade portfolio-modal text-center" role="dialog" tabindex="-1" id="portfolioModal4">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content content">
+                <button class="btn btn-primary boton-cerrar" data-dismiss="modal" type="button"><i class="fa fa-times"></i><span>&nbsp;Cerrar</span></button>
+                <div class="modal-body">
+                    <img class="img-fluid d-block mx-auto" src="assets/img/p/2_ComputadorFinal.png">
+                    <p class="project-info"> <b> Nombre: </b> Computador Crash </p>
+                    <p class="project-info"> <b> Tipo: </b> Render </p>
+                    <p class="project-info"> <b> Año: </b> 2018 </p>
+                    <p class="project-info"> <b> Info: </b> Cycles, Blender + GIMP </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade portfolio-modal text-center" role="dialog" tabindex="-1" id="portfolioModal5">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content content">
+                <button class="btn btn-primary boton-cerrar" data-dismiss="modal" type="button"><i class="fa fa-times"></i><span>&nbsp;Cerrar</span></button>
+                <div class="modal-body">
+                    <img class="img-fluid d-block mx-auto" src="assets/img/p/AProtectorFinal.png">
+                    <p class="project-info"> <b> Nombre: </b> RWS Protector </p>
+                    <p class="project-info"> <b> Tipo: </b> Asset </p>
+                    <p class="project-info"> <b> Año: </b> 2017 </p>
+                    <p class="project-info"> <b> Info: </b> Videogame - Model + Textures + LODs, Blender + GIMP </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade portfolio-modal text-center" role="dialog" tabindex="-1" id="portfolioModal6">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content content">
+                <button class="btn btn-primary boton-cerrar" data-dismiss="modal" type="button"><i class="fa fa-times"></i><span>&nbsp;Cerrar</span></button>
+                <div class="modal-body">
+                    <img class="img-fluid d-block mx-auto" src="assets/img/p/ALowPolyBuildings2-1.png">
+                    <p class="project-info"> <b> Nombre: </b> Low Poly Buildings 2 </p>
+                    <p class="project-info"> <b> Tipo: </b> Asset </p>
+                    <p class="project-info"> <b> Año: </b> 2016 </p>
+                    <p class="project-info"> <b> Info: </b> Videogame - Model + Textures, Blender + GIMP </p>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>

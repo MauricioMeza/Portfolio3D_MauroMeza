@@ -49,3 +49,17 @@
 .intro-back-header2{
     background-image: url("../../img/Computador.png")
  }
+
+ /* -------- Styles for Modal.html -------- */
+ .content{
+    background-color: #292927;
+    padding: 0px
+ }
+ .boton-cerrar{
+    color: #292927;
+ }
+
+.project-info{
+    color: white;
+    
+}
