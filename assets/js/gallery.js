@@ -35,7 +35,7 @@ function loadGallery(condition){
                                 + '<i class="fa fa-plus fa-3x"></i>'
                             + '</div>'
                         + '</div>' 
-                        + '<img class="img-fluid" src="../assets/img/port/' + trabajo.mainimg + '">'
+                        + '<img class="img-fluid" src="/assets/img/port/' + trabajo.mainimg + '">'
                     +' </a>' 
                     +' <div class="portfolio-caption">'
                         +'<h4>' + trabajo.nombre + '</h4>' 
