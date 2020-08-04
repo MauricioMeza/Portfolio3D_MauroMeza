@@ -26,8 +26,8 @@
                     <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" href="#">Portafolio</a>
                         <div class="dropdown-menu" role="menu">
                             <a class="dropdown-item" role="presentation" href="portfolio.html#Render" >Renders</a>
-                            <a class="dropdown-item" role="presentation" href="portfolio.html#Animacion">Animacion</a>
-                            <a class="dropdown-item" role="presentation" href="portfolio.html#Asset" >Assets</a>
+                            <a class="dropdown-item" role="presentation" href="portfolio.html#Animacion" >Animacion</a>
+                            <a class="dropdown-item" role="presentation" href="portfolio.html#Asset" > Assets</a>
                             <a class="dropdown-item" role="presentation" href="portfolio.html#Sketchup" >Sketchup</a></div>
                     </li>
                     <li class="nav-item" role="presentation"><a class="nav-link js-scroll-trigger" href="#informacion">Informacion</a></li>
@@ -38,13 +38,13 @@
         </div>
     </nav>
 
-    <header class="masthead intro-back-header">
+    <header class="masthead intro-back-header" id="intro-back-header">
         <div class="container">
             <div class="intro-buttons-div">
-                <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='location.href="portfolio.html#Render"'> Renders</button>
-                <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='location.href="portfolio.html#Animacion"'> Animacion</button>
-                <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='location.href="portfolio.html#Asset"'> Assets</button>
-                <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='location.href="portfolio.html#Sketchup"'> Sketchup</button>
+                <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='location.href="portfolio.html#Render"' id="btn-back-rend"> Renders</button>
+                <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='location.href="portfolio.html#Animacion"' id="btn-back-anim"> Animacion</button>
+                <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='location.href="portfolio.html#Asset"' id="btn-back-asst"> Assets</button>
+                <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='location.href="portfolio.html#Sketchup"' id="btn-back-sktc"> Sketchup</button>
             </div>
         </div>
     </header>
@@ -78,8 +78,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="text-uppercase section-heading">PortAfolio</h2>
-                    <h3 class="section-subheading text-muted">Algunos de mis trabajos mas recientes</h3>
+                    <h2 class="text-uppercase section-heading">Portafolio</h2>
+                    <h3 class="section-subheading text-muted">Algunos de mis trabajos</h3>
                 </div>
             </div>
             <div class="row">
@@ -88,7 +88,7 @@
                         <div class="portfolio-hover port-hover">
                             <div class="portfolio-hover-content"><i class="fa fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/1%20Torobajo%20Final.png">
+                        <img class="img-fluid port-img" src="assets/img/port/7_Torobajop.png">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Parque Torobajo</h4>
@@ -100,7 +100,7 @@
                         <div class="portfolio-hover port-hover">
                             <div class="portfolio-hover-content"><i class="fa fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/Navidad%20Aula.png">
+                        <img class="img-fluid port-img" src="assets/img/port/3_NavidadAulap.png">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Navidad Aula</h4>
@@ -112,10 +112,10 @@
                         <div class="portfolio-hover port-hover">
                             <div class="portfolio-hover-content"><i class="fa fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/1%20Colegio%20Renovado%20Final.png">
+                        <img class="img-fluid port-img" src="assets/img/port/1_ColegioRenovadop.png">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Colegio Javeriano</h4>
+                        <h4>Colegio Javeriano Renovado</h4>
                         <p class="text-muted">Render 3D</p>
                     </div>
                 </div>
@@ -123,7 +123,8 @@
                     <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
                         <div class="portfolio-hover port-hover">
                             <div class="portfolio-hover-content"><i class="fa fa-plus fa-3x"></i></div>
-                        </div><img class="img-fluid" src="assets/img/Computador.png"></a>
+                        </div>
+                        <img class="img-fluid port-img" src="assets/img/port/2_Computadorp.png"></a>
                     <div class="portfolio-caption">
                         <h4>Computador</h4>
                         <p class="text-muted">Render 3D</p>
@@ -133,24 +134,23 @@
                     <a class="portfolio-link" data-toggle="modal" href="#portfolioModal5">
                         <div class="portfolio-hover port-hover">
                             <div class="portfolio-hover-content"><i class="fa fa-plus fa-3x"></i></div>
-                        </div><img class="img-fluid img-fluid" src="assets/img/untitled.png"></a>
+                        </div>
+                        <img class="img-fluid port-img" src="assets/img/port/AProtectorp.png"></a>
                     <div class="portfolio-caption">
                         <h4>RWS Protector</h4>
-                        <p class="text-muted">Videogame Asset</p>
+                        <p class="text-muted">Asset</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 portfolio-item">
                     <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
                         <div class="portfolio-hover port-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
+                            <div class="portfolio-hover-content"><i class="fa fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/untitled2.png">
+                        <img class="img-fluid port-img" src="assets/img/port/ALowPolyBuildings2p.png">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Edificios Low Poy</h4>
-                        <p class="text-muted"><em>Videogame Asset</em><br></p>
+                        <h4>Low Poly Buildings 2</h4>
+                        <p class="text-muted"><em>Asset</em><br></p>
                     </div>
                 </div>
             </div>

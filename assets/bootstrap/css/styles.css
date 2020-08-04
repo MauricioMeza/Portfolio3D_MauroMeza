@@ -10,7 +10,7 @@
     color: #292927
 }
 .intro-back-header{
-   background-image: url("../../img/1\ Colegio\ Antiguo.png")
+   background: url("../../img/1_ColegioAntiguo.png")
 }
 
 .msection{
@@ -47,7 +47,7 @@
     padding: 150px 0px 15px
 }
 .intro-back-header2{
-    background-image: url("../../img/Computador.png")
+    background-image: url("../../img/port/2_ComputadorFinal.png")
  }
 
  /* -------- Styles for Modal.html -------- */
@@ -61,5 +61,8 @@
 
 .project-info{
     color: white;
-    
+}
+
+.port-img{
+    width: 100%;
 }

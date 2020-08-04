@@ -46,7 +46,7 @@
         "info": [" Cycles", " Blender + GIMP"]
     },
     {
-        "nombre": "SuperHeterodinop",
+        "nombre": "SuperHeterodino",
         "mainimg": "x SuperHeterodinop.png",
         "secondaryimgs": ["x SuperHeterodino WIP2.png"],
         "tipo": "Render",
@@ -122,7 +122,7 @@
     {
         "nombre": "RWS Protector",
         "mainimg": "AProtectorp.png",
-        "secondaryimgs": ["AProtectorFinal.png", "AProtectorWIP1.png", "AProtectorWIP2.png", "AProtectorLOD1.png", "AProtectorLOD2.png"],
+        "secondaryimgs": ["AProtectorFinal.png", "AProtectorFinal.png", "AProtectorWIP1.png", "AProtectorWIP2.png", "AProtectorLOD1.png", "AProtectorLOD2.png"],
         "tipo": "Asset",
         "info": [" Videogame - Model + Textures + LODs", " Blender + GIMP"],
         "fecha": "2017"
