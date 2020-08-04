@@ -51,7 +51,7 @@ function loadGallery(condition){
                             + '<div class="modal-content content">'
                                 + '<button class="btn btn-primary boton-cerrar" data-dismiss="modal" type="button"><i class="fa fa-times"></i><span>&nbsp;Cerrar</span></button>'
                                 + '<div class="modal-body">'
-                                    + '<img class="img-fluid d-block mx-auto" src="assets/img/port/'+ trabajo.mainimg +'">'
+                                    + '<img class="img-fluid d-block mx-auto" src="assets/img/port/'+ trabajo.secondaryimgs[0] +'">'
                                     + '<p class="project-info"> <b> Nombre: </b> '+ trabajo.nombre +' </p>'
                                     + '<p class="project-info"> <b> Tipo: </b> '+ trabajo.tipo +' </p>'
                                     + '<p class="project-info"> <b> Año: </b> '+ trabajo.fecha +' </p>'

@@ -1,113 +1,113 @@
 [
     {
         "nombre": "Colegio Javeriano Renovacion",
-        "mainimg": "1_ColegioRenovadoFinal.png",
-        "secondaryimgs": ["1_ColegioRenovadoWIP1.png", "1_ColegioRenovadoWIP2.png", "1_ColegioRenovadoWIP3.png", "1_ColegioRenovadoWIP4.png", "1_ColegioRenovadoWIP5.png","1_ColegioRenovadoWIP6.png"],
+        "mainimg": "1_ColegioRenovadop.png",
+        "secondaryimgs": ["1_ColegioRenovadoFinal.png", "1_ColegioRenovadoWIP1.png", "1_ColegioRenovadoWIP2.png", "1_ColegioRenovadoWIP3.png", "1_ColegioRenovadoWIP4.png", "1_ColegioRenovadoWIP5.png","1_ColegioRenovadoWIP6.png"],
         "tipo": "Render",
         "info": [" Cycles", " Blender + GIMP"],
         "fecha": "2016"
     },
     {
         "nombre": "Navidad Aula",
-        "mainimg": "3_NavidadAulaFinal.png",
-        "secondaryimgs": ["3_NavidadAulaWIP1.png", "3_NavidadAulaWIP2.png", "3_NavidadAulaWIP3.png", "3_NavidadAulaWIP4.png", "3_NavidadAulaWIP5.png", "3_NavidadAulaWIP6.png"],
+        "mainimg": "3_NavidadAulap.png",
+        "secondaryimgs": ["3_NavidadAulaFinal.png", "3_NavidadAulaWIP1.png", "3_NavidadAulaWIP2.png", "3_NavidadAulaWIP3.png", "3_NavidadAulaWIP4.png", "3_NavidadAulaWIP5.png", "3_NavidadAulaWIP6.png"],
         "tipo": "Render",
         "info": [" Cycles", " Blender + GIMP"],
         "fecha": "2015"
     },
     {
         "nombre": "Sala Viejito",
-        "mainimg": "6_ViejitosFinal.png",
-        "secondaryimgs": ["6_ViejitosWIP1.png", "6_ViejitosWIP2.png", "6_ViejitosWIP3.png", "6_ViejitosWIP4.png", "6_ViejitosWIP5.png"],
+        "mainimg": "6_Viejitosp.png",
+        "secondaryimgs": ["6_ViejitosFinal.png", "6_ViejitosWIP1.png", "6_ViejitosWIP2.png", "6_ViejitosWIP3.png", "6_ViejitosWIP4.png", "6_ViejitosWIP5.png"],
         "tipo": "Render",
         "info": [" Cycles", " Blender + GIMP"],
         "fecha": "2019"
     },
     {
         "nombre": "Mundial Brasil",
-        "mainimg": "4_MundialBrasilFinal.png",
-        "secondaryimgs": ["4_MundialBrasilWIP1.png", "4_MundialBrasilWIP2.png", "4_MundialBrasilWIP3.png", "4_MundialBrasilWIP4.png", "4_MundialBrasilWIP5.png"],
+        "mainimg": "4_MundialBrasilp.png",
+        "secondaryimgs": ["4_MundialBrasilFinal.png", "4_MundialBrasilWIP1.png", "4_MundialBrasilWIP2.png", "4_MundialBrasilWIP3.png", "4_MundialBrasilWIP4.png", "4_MundialBrasilWIP5.png"],
         "tipo": "Render",
         "info": [" Cycles", " Blender + GIMP"],
         "fecha": "2014"
     },
     {
         "nombre": "Cocina",
-        "mainimg": "x Cocina.png",
-        "secondaryimgs": [],
+        "mainimg": "x Cocinap.png",
+        "secondaryimgs": ["x Cocina.png"],
         "tipo": "Render",
         "info": [" Cycles", " Blender + GIMP"]
     },
     {
         "nombre": "Granja",
-        "mainimg": "x Granja.png",
-        "secondaryimgs": [],
+        "mainimg": "x Granjap.png",
+        "secondaryimgs": ["x Granja.png"],
         "tipo": "Render",
         "info": [" Cycles", " Blender + GIMP"]
     },
     {
-        "nombre": "SuperHeterodino",
-        "mainimg": "x SuperHeterodino WIP2.png",
-        "secondaryimgs": [],
+        "nombre": "SuperHeterodinop",
+        "mainimg": "x SuperHeterodinop.png",
+        "secondaryimgs": ["x SuperHeterodino WIP2.png"],
         "tipo": "Render",
         "info": ["Blender Internal", " Blender + GIMP"]
     },
     {
         "nombre": "Steampunk Bar",
-        "mainimg": "x Steampunk Bar Final.png",
-        "secondaryimgs": [],
+        "mainimg": "x Steampunk Bar p.png",
+        "secondaryimgs": ["x Steampunk Bar Final.png"],
         "tipo": "Render",
         "info": [" Cycles", " Blender + GIMP"]
     },
     {
         "nombre": "Parque Torobajo",
-        "mainimg": "7_TorobajoWIP5.png",
-        "secondaryimgs": ["7_TorobajoWIP2.png", "7_TorobajoWIP3.png", "7_TorobajoWIP4.png", "7_TorobajoWIP5.png"],
+        "mainimg": "7_Torobajop.png",
+        "secondaryimgs": [ "7_TorobajoWIP5.png", "7_TorobajoWIP2.png", "7_TorobajoWIP3.png", "7_TorobajoWIP4.png", "7_TorobajoWIP5.png"],
         "tipo": "Render",
         "info": [" Cycles", " Blender + GIMP"],
         "fecha": "2019"
     },
     {
         "nombre": "Guerreros Incas",
-        "mainimg": "x Incas.png",
-        "secondaryimgs": ["5_RonFinal.png", "5_RonWIP1.png", "5_RonWIP2.png", "5_RonWIP3.png"],
+        "mainimg": "x Incasp.png",
+        "secondaryimgs": ["x Incas.png"],
         "tipo": "Render",
         "info": [" Cycles", " Blender + GIMP"]
     },
     {
         "nombre": "Colegio Javeriano Antiguo",
-        "mainimg": "x ColegioAntiguo.png",
-        "secondaryimgs": [],
+        "mainimg": "x ColegioAntiguop.png",
+        "secondaryimgs": ["x ColegioAntiguo.png"],
         "tipo": "Render",
         "info": [" Blender Internal", " Blender + GIMP"]
     },
     {
         "nombre": "FPS MP5",
-        "mainimg": "x MP5 Render Final.png",
-        "secondaryimgs": [],
+        "mainimg": "x MP5 Renderp.png",
+        "secondaryimgs": ["x MP5 Render Final.png"],
         "tipo": "Render",
         "info": [" Cycles", " Blender + GIMP"]
     },
     {
         "nombre": "Computador",
-        "mainimg": "2_ComputadorFinal.png",
-        "secondaryimgs": ["2_ComputadorWIP1.png", "2_ComputadorWIP2.png", "2_ComputadorWIP3.png", "2_ComputadorWIP4.png", "2_ComputadorWIP5.png"],
+        "mainimg": "2_Computadorp.png",
+        "secondaryimgs": ["2_ComputadorFinal.png", "2_ComputadorWIP1.png", "2_ComputadorWIP2.png", "2_ComputadorWIP3.png", "2_ComputadorWIP4.png", "2_ComputadorWIP5.png"],
         "tipo": "Render",
         "info": [" Cycles", " Blender + GIMP"],
         "fecha": "2019"
     },
     {
         "nombre": "Mapa Colombia",
-        "mainimg": "0_MapaColombia6.png",
-        "secondaryimgs": ["0_MapaColombia1.png", "0_MapaColombia2.png", "0_MapaColombia2.png", "0_MapaColombia3.png", "0_MapaColombia4.png"],
+        "mainimg": "0_MapaColombiap.png",
+        "secondaryimgs": ["0_MapaColombia1.png", "0_MapaColombia2.png", "0_MapaColombia2.png", "0_MapaColombia3.png", "0_MapaColombia4.png", "0_MapaColombia5.png"],
         "tipo": "Render",
         "info": [" Cycles", " Blender + GIMP"],
         "fecha": "2020"
     },
     {
         "nombre": "Ron Viejo de Caldas",
-        "mainimg": "5_RonWIP4.png",
-        "secondaryimgs": ["5_RonFinal.png", "5_RonWIP1.png", "5_RonWIP2.png", "5_RonWIP3.png"],
+        "mainimg": "5_Ronp.png",
+        "secondaryimgs": ["5_RonFinal.png", "5_RonWIP1.png", "5_RonWIP2.png", "5_RonWIP3.png", "5_RonWIP4.png"],
         "tipo": "Render",
         "info": [" Cycles", " Blender + GIMP"],
         "fecha": "2016"
@@ -121,32 +121,32 @@
 
     {
         "nombre": "RWS Protector",
-        "mainimg": "AProtectorFinal.png",
-        "secondaryimgs": ["AProtectorWIP1.png", "AProtectorWIP2.png", "AProtectorLOD1.png", "AProtectorLOD2.png"],
+        "mainimg": "AProtectorp.png",
+        "secondaryimgs": ["AProtectorFinal.png", "AProtectorWIP1.png", "AProtectorWIP2.png", "AProtectorLOD1.png", "AProtectorLOD2.png"],
         "tipo": "Asset",
         "info": [" Videogame - Model + Textures + LODs", " Blender + GIMP"],
         "fecha": "2017"
     },
     {
         "nombre": "Low Poly Buildings 1",
-        "mainimg": "ALowPolyBuildings1-1.png",
-        "secondaryimgs": ["ALowPolyBuildings1-2.png", "ALowPolyBuildings1-3.png"],
+        "mainimg": "ALowPolyBuildings1p.png",
+        "secondaryimgs": ["ALowPolyBuildings1-1.png", "ALowPolyBuildings1-2.png", "ALowPolyBuildings1-3.png"],
         "tipo": "Asset",
         "info": [" Videogame - Model + Textures", " Blender + GIMP"],
         "fecha": "2016"
     },
     {
         "nombre": "Low Poly Buildings 2",
-        "mainimg": "ALowPolyBuildings2-1.png",
-        "secondaryimgs": ["ALowPolyBuildings2-2.png", "ALowPolyBuildings2-3.png", "ALowPolyBuildings2-4.png", "ALowPolyBuildings2-5.png"],
+        "mainimg": "ALowPolyBuildings2p.png",
+        "secondaryimgs": ["ALowPolyBuildings2-1.png", "ALowPolyBuildings2-2.png", "ALowPolyBuildings2-3.png", "ALowPolyBuildings2-4.png", "ALowPolyBuildings2-5.png"],
         "tipo": "Asset",
         "info": [" Videogame - Model + Textures", " Blender + GIMP"],
         "fecha": "2016"
     },
     {
         "nombre": "UGD200 Smoke Grenade",
-        "mainimg": "AUGD.png",
-        "secondaryimgs": ["AUGw.png", "AUGDL1.png", "AUGDL2.png"],
+        "mainimg": "AUGDp.png",
+        "secondaryimgs": ["AUGD.png", "AUGw.png", "AUGDL1.png", "AUGDL2.png"],
         "tipo": "Asset",
         "info": [" Videogame - Model + Textures + LODs", " Blender + GIMP"],
         "fecha": "2017"
@@ -154,55 +154,55 @@
     {
         "nombre": "Low Poly Weapons 1",
         "mainimg": "ALPW.png",
-        "secondaryimgs": ["ALPW_AR15.png", "ALPW_AR15w.png", "ALPW_BREN.png", "ALPW_BRENw.png", "ALPW_FMK.png", "ALPW_FMKw.png", "ALPW_UZI.png", "ALPW_UZI.png"],
+        "secondaryimgs": ["ALPWp.png", "ALPW_AR15.png", "ALPW_AR15w.png", "ALPW_BREN.png", "ALPW_BRENw.png", "ALPW_FMK.png", "ALPW_FMKw.png", "ALPW_UZI.png", "ALPW_UZI.png"],
         "tipo": "Asset",
         "info": [" Videogame - Low Poly Model + Textures", " Blender + GIMP"],
         "fecha": "2015"
     },
     {
         "nombre": "Aircraft Carrier",
-        "mainimg": "ACarrier1.png",
-        "secondaryimgs": ["ACarrierw.png", "ACarrier2.png", "ACarrier3.png"],
+        "mainimg": "ACarrierp.png",
+        "secondaryimgs": ["ACarrier1.png", "ACarrierw.png", "ACarrier2.png", "ACarrier3.png"],
         "tipo": "Asset",
         "info": [" Videogame - Model + Textures", " Blender + GIMP"],
         "fecha": "2017"
     },
     {
         "nombre": "Oil Drill",
-        "mainimg": "APerforar1.png",
-        "secondaryimgs": ["APerforar2.png", "APerforar3.png"],
+        "mainimg": "APerforarp.png",
+        "secondaryimgs": ["APerforar1.png", "APerforar2.png", "APerforar3.png"],
         "tipo": "Asset",
         "info": [" Videogame - Model + Textures", " Blender + GIMP"],
         "fecha": "2019"
     },
     {
         "nombre": "Spider Tank",
-        "mainimg": "ASpiderTank1.png",
-        "secondaryimgs": ["ASpiderTankw.png", "ASpiderTank2.png", "ASpiderTank3.png"],
+        "mainimg": "ASpiderTankp.png",
+        "secondaryimgs": ["ASpiderTank1.png", "ASpiderTankw.png", "ASpiderTank2.png", "ASpiderTank3.png"],
         "tipo": "Asset",
         "info": ["Videogame - Model + Textures", " Blender + GIMP"],
         "fecha": "2018"
     },
     {
         "nombre": "Sea Harrier Jet ",
-        "mainimg": "AJetHarrier.png",
-        "secondaryimgs": ["AJetHarrierw.png", "AJetHarrier1.png"],
+        "mainimg": "AJetHarrierp.png",
+        "secondaryimgs": ["AJetHarrier.png", "AJetHarrierw.png", "AJetHarrier1.png"],
         "tipo": "Asset",
         "info": [" Videogame - Low Poly Model + Textures", " Blender + GIMP"],
         "fecha": "2015"
     },
     {
         "nombre": "Super Etendard Jet",
-        "mainimg": "AJetSuperE.png",
-        "secondaryimgs": ["AJetSuperEw.png", "AJetSuperE1.png"],
+        "mainimg": "AJetSuperEp.png",
+        "secondaryimgs": ["AJetSuperE.png", "AJetSuperEw.png", "AJetSuperE1.png"],
         "tipo": "Asset",
         "info": [" Videogame - Low Poly Model + Textures", "  Blender + GIMP"],
         "fecha": "2015"
     },
     {
         "nombre": "Baked Room",
-        "mainimg": "ABkdRoom1.png",
-        "secondaryimgs": ["ABkdRoomw.png", "ABkdRoom2.png"],
+        "mainimg": "ABkdRoomp.png",
+        "secondaryimgs": ["ABkdRoom1.png", "ABkdRoomw.png", "ABkdRoom2.png"],
         "tipo": "Asset",
         "info": [" Videogame - Low Poly Model + Textures", "  Blender + GIMP"],
         "fecha": "2018"
@@ -214,7 +214,7 @@
     {
         "nombre": "Colegio Javeriano + Cristo Rey",
         "mainimg": "SKGoogleCentro1.jpg",
-        "secondaryimgs": ["SKGoogleCentro2.jpg"],
+        "secondaryimgs": ["SKGoogleCentro1.jpg", "SKGoogleCentro2.jpg"],
         "tipo": "Sketchup",
         "info": [" Google Earth Model", "Sketchup"],
         "fecha": "2013"
@@ -222,7 +222,7 @@
     {
         "nombre": "Aurora",
         "mainimg": "SKGoogleAurora1.jpg",
-        "secondaryimgs": ["SKGoogleAurora2.jpg"],
+        "secondaryimgs": ["SKGoogleAurora1.jpg", "SKGoogleAurora2.jpg"],
         "tipo": "Sketchup",
         "info": [" Google Earth Model", " Sketchup"],
         "fecha": "2015"
@@ -230,7 +230,7 @@
     {
         "nombre": "Unicentro",
         "mainimg": "SKGoogleUnicentro1.jpg",
-        "secondaryimgs": ["SKGoogleUnicentro2.jpg, SKGoogleUnicentro3.jpg"],
+        "secondaryimgs": ["SKGoogleUnicentro1.jpg", "SKGoogleUnicentro2.jpg", "SKGoogleUnicentro3.jpg"],
         "tipo": "Sketchup",
         "info": [" Google Earth Model", "Sketchup"],
         "fecha": "2018"
