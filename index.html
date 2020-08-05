@@ -225,22 +225,25 @@
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                    <form id="contactForm" name="contactForm" novalidate="novalidate">
+                    <form id="contactForm" name="contactForm" novalidate="novalidate" action="https://app.99inbound.com/api/e/JJRNVN_f" method="POST" target="_blank">
                         <div class="form-row">
                             <div class="col col-md-6">
-                                <div class="form-group"><input class="form-control" type="text" id="name" placeholder="Nombre" required=""><small class="form-text text-danger flex-grow-1 help-block lead"></small></div>
-                                <div class="form-group"><input class="form-control" type="email" id="email" placeholder="Email" required=""><small class="form-text text-danger help-block lead"></small></div>
-                                <div class="form-group"><input class="form-control" type="tel" placeholder="Telefono" required=""><small class="form-text text-danger help-block lead"></small></div>
+                                <div class="form-group"><input class="form-control" type="text" id="name" name="name" placeholder="Nombre" required><small class="form-text text-danger flex-grow-1 help-block lead"></small></div>
+                                <div class="form-group"><input class="form-control" type="email" id="email" name="email" placeholder="Email" required><small class="form-text text-danger help-block lead"></small></div>
+                                <div class="form-group"><input class="form-control" type="tel" id="tel"  name="tel"placeholder="Telefono" ><small class="form-text text-danger help-block lead"></small></div>
                             </div>
                             <div class="col-md-6">
-                                <div class="form-group"><textarea class="form-control" id="message" placeholder="Mensaje" required=""></textarea><small class="form-text text-danger help-block lead"></small></div>
+                                <div class="form-group"><textarea class="form-control" id="message" name="message" placeholder="Mensaje" required></textarea><small class="form-text text-danger help-block lead"></small></div>
                             </div>
                             <div class="col">
                                 <div class="clearfix"></div>
                             </div>
                             <div class="col-lg-12 text-center">
                                 <div id="success"></div>
-                                <button class="btn btn-primary btn-xl text-uppercase contac-button" id="sendMessageButton" type="submit">Enviar Mensaje</button>
+                                <button class="btn btn-primary btn-xl text-uppercase contac-button" id="sendMessageButton" type="submit">Enviar Mensaje</button>        
+                            </div>
+                            <div style="position: absolute; left: -5000px;">
+                                <input type="checkbox" name="spectacular_topaz_matte_pen" value="1" tabindex="-1" autocomplete="no">
                             </div>
                         </div>
                     </form>
