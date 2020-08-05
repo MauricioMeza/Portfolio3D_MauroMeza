@@ -33,8 +33,8 @@
     },
     {
         "nombre": "Cocina",
-        "mainimg": "x Cocinap.png",
-        "secondaryimgs": ["x Cocina.png"],
+        "mainimg": "11x_Cocinap.png",
+        "secondaryimgs": ["11x_CocinaFinal.png", "11x_CocinaWIP1.png", "11x_CocinaWIP2.png", "11x_CocinaWIP3.png", "11x_CocinaWIP4.png", "11x_CocinaWIP5.png"],
         "tipo": "Render",
         "info": [" Cycles", " Blender + GIMP"]
     },
@@ -47,8 +47,8 @@
     },
     {
         "nombre": "SuperHeterodino",
-        "mainimg": "x SuperHeterodinop.png",
-        "secondaryimgs": ["x SuperHeterodino WIP2.png"],
+        "mainimg": "10x_SuperHeterodinop.png",
+        "secondaryimgs": ["10x_SuperHeterodinoWIP1.png", "10x_SuperHeterodinoWIP2.png", "10x_SuperHeterodinoWIP3.png"],
         "tipo": "Render",
         "info": ["Blender Internal", " Blender + GIMP"]
     },
@@ -76,15 +76,15 @@
     },
     {
         "nombre": "Colegio Javeriano Antiguo",
-        "mainimg": "x ColegioAntiguop.png",
-        "secondaryimgs": ["x ColegioAntiguo.png"],
+        "mainimg": "8x_ColegioAntiguop.png",
+        "secondaryimgs": ["8x_ColegioAntiguoFinal.png", "8x_ColegioAntiguoWIP1.png", "8x_ColegioAntiguoWIP2.png"],
         "tipo": "Render",
         "info": [" Blender Internal", " Blender + GIMP"]
     },
     {
         "nombre": "FPS MP5",
-        "mainimg": "x MP5 Renderp.png",
-        "secondaryimgs": ["x MP5 Render Final.png"],
+        "mainimg": "9x_MP5 Renderp.png",
+        "secondaryimgs": ["9x_MP5RenderFinal.png", "9x_MP5RenderWIP1.png", "9x_MP5RenderWIP2.png", "9x_MP5RenderWIP3.jpg", "9x_MP5RenderWIP4.png"],
         "tipo": "Render",
         "info": [" Cycles", " Blender + GIMP"]
     },
@@ -99,7 +99,7 @@
     {
         "nombre": "Mapa Colombia",
         "mainimg": "0_MapaColombiap.png",
-        "secondaryimgs": ["0_MapaColombia1.png", "0_MapaColombia2.png", "0_MapaColombia2.png", "0_MapaColombia3.png", "0_MapaColombia4.png", "0_MapaColombia5.png"],
+        "secondaryimgs": ["0_MapaColombia1.png", "0_MapaColombia2.png", "0_MapaColombia3.png", "0_MapaColombia4.png", "0_MapaColombia5.png"],
         "tipo": "Render",
         "info": [" Cycles", " Blender + GIMP"],
         "fecha": "2020"
@@ -122,7 +122,7 @@
     {
         "nombre": "RWS Protector",
         "mainimg": "AProtectorp.png",
-        "secondaryimgs": ["AProtectorFinal.png", "AProtectorFinal.png", "AProtectorWIP1.png", "AProtectorWIP2.png", "AProtectorLOD1.png", "AProtectorLOD2.png"],
+        "secondaryimgs": ["AProtectorFinal.png", "AProtectorWIP1.png", "AProtectorWIP2.png", "AProtectorLOD1.png", "AProtectorLOD2.png"],
         "tipo": "Asset",
         "info": [" Videogame - Model + Textures + LODs", " Blender + GIMP"],
         "fecha": "2017"
@@ -146,7 +146,7 @@
     {
         "nombre": "UGD200 Smoke Grenade",
         "mainimg": "AUGDp.png",
-        "secondaryimgs": ["AUGD.png", "AUGw.png", "AUGDL1.png", "AUGDL2.png"],
+        "secondaryimgs": ["AUGD.png", "AUGDw.png", "AUGDL1.png", "AUGDL2.png"],
         "tipo": "Asset",
         "info": [" Videogame - Model + Textures + LODs", " Blender + GIMP"],
         "fecha": "2017"
@@ -154,7 +154,7 @@
     {
         "nombre": "Low Poly Weapons 1",
         "mainimg": "ALPW.png",
-        "secondaryimgs": ["ALPWp.png", "ALPW_AR15.png", "ALPW_AR15w.png", "ALPW_BREN.png", "ALPW_BRENw.png", "ALPW_FMK.png", "ALPW_FMKw.png", "ALPW_UZI.png", "ALPW_UZI.png"],
+        "secondaryimgs": ["ALPWp.png", "ALPW_AR15.png", "ALPW_AR15w.png", "ALPW_BREN.png", "ALPW_BRENw.png", "ALPW_FMK.png", "ALPW_FMKw.png", "ALPW_UZI.png", "ALPW_UZIw.png"],
         "tipo": "Asset",
         "info": [" Videogame - Low Poly Model + Textures", " Blender + GIMP"],
         "fecha": "2015"
@@ -162,7 +162,7 @@
     {
         "nombre": "Aircraft Carrier",
         "mainimg": "ACarrierp.png",
-        "secondaryimgs": ["ACarrier1.png", "ACarrierw.png", "ACarrier2.png", "ACarrier3.png"],
+        "secondaryimgs": ["ACarrier.png", "ACarrierw.png", "ACarrier1.png", "ACarrier2.png", "ACarrier3.png"],
         "tipo": "Asset",
         "info": [" Videogame - Model + Textures", " Blender + GIMP"],
         "fecha": "2017"
