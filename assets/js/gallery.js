@@ -66,21 +66,22 @@ function loadGallery(condition){
                                 + '<button class="btn btn-primary boton-cerrar" data-dismiss="modal" type="button"><i class="fa fa-times"></i><span>&nbsp;Cerrar</span></button>'
                                 + '<div class="modal-body">'
                                     + '<div id="imgcarousel'+ i +'" class="carousel slide" data-ride="carousel">' +
-                                    '<div class="carousel-inner">' +
-                                    carousel +
-                                    '</div>' +
-                                    '<a class="carousel-control-prev" href="#imgcarousel' + i + '" role="button" data-slide="prev">' +
-                                        '<span class="carousel-control-prev-icon" aria-hidden="true"></span>' +
-                                        '<span class="sr-only">Anterior</span>' +
-                                    '</a>' +
-                                    '<a class="carousel-control-next" href="#imgcarousel' + i + '" role="button" data-slide="next">' +
-                                        '<span class="carousel-control-next-icon" aria-hidden="true"></span>' +
-                                        '<span class="sr-only">Siguiente</span>' +
-                                    '</a>'
-                                    + '<p class="project-info"> <b> Nombre: </b> '+ trabajo.nombre +' </p>'
-                                    + '<p class="project-info"> <b> Tipo: </b> '+ trabajo.tipo +' </p>'
-                                    + '<p class="project-info"> <b> Año: </b> '+ trabajo.fecha +' </p>'
-                                    + '<p class="project-info"> <b> Info: </b> '+ trabajo.info +' </p>'
+                                        '<div class="carousel-inner">' +
+                                            carousel +
+                                        '</div>' +
+                                        '<a class="carousel-control-prev" href="#imgcarousel' + i + '" role="button" data-slide="prev">' +
+                                            '<span class="carousel-control-prev-icon" aria-hidden="true"></span>' +
+                                            '<span class="sr-only">Anterior</span>' +
+                                        '</a>' +
+                                        '<a class="carousel-control-next" href="#imgcarousel' + i + '" role="button" data-slide="next">' +
+                                            '<span class="carousel-control-next-icon" aria-hidden="true"></span>' +
+                                            '<span class="sr-only">Siguiente</span>' +
+                                        '</a>'
+                                        + '<p class="project-info"> <b> Nombre: </b> '+ trabajo.nombre +' </p>'
+                                        + '<p class="project-info"> <b> Tipo: </b> '+ trabajo.tipo +' </p>'
+                                        + '<p class="project-info"> <b> Año: </b> '+ trabajo.fecha +' </p>'
+                                        + '<p class="project-info"> <b> Info: </b> '+ trabajo.info +' </p>'
+                                    + '</div>'
                                 + '</div>'
                             + '</div>'
                         + '</div>'
