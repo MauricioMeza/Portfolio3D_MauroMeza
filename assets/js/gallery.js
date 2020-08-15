@@ -77,11 +77,11 @@ function loadGallery(condition){
                                             '<span class="carousel-control-next-icon" aria-hidden="true"></span>' +
                                             '<span class="sr-only">Siguiente</span>' +
                                         '</a>'
-                                        + '<p class="project-info"> <b> Nombre: </b> '+ trabajo.nombre +' </p>'
-                                        + '<p class="project-info"> <b> Tipo: </b> '+ trabajo.tipo +' </p>'
-                                        + '<p class="project-info"> <b> Año: </b> '+ trabajo.fecha +' </p>'
-                                        + '<p class="project-info"> <b> Info: </b> '+ trabajo.info +' </p>'
                                     + '</div>'
+                                    + '<p class="project-info"> <b> Nombre: </b> '+ trabajo.nombre +' </p>'
+                                    + '<p class="project-info"> <b> Tipo: </b> '+ trabajo.tipo +' </p>'
+                                    + '<p class="project-info"> <b> Año: </b> '+ trabajo.fecha +' </p>'
+                                    + '<p class="project-info"> <b> Info: </b> '+ trabajo.info +' </p>'
                                 + '</div>'
                             + '</div>'
                         + '</div>'

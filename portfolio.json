@@ -207,6 +207,30 @@
         "info": [" Videogame - Low Poly Model + Textures", "  Blender + GIMP"],
         "fecha": "2018"
     },
+    {
+        "nombre": "LVTP-7",
+        "mainimg": "ALVTP-7p.png",
+        "secondaryimgs": ["ALVTP-7Wip1.png", "ALVTP-7Wip2.png", "ALVTP-7Wip3.png"],
+        "tipo": "Asset",
+        "info": [" Videogame - Low Poly Model + Textures", "  Blender + GIMP"],
+        "fecha": "2013"
+    },
+    {
+        "nombre": "BOSE",
+        "mainimg": "AVOSEp.png",
+        "secondaryimgs": ["AVOSEWip1.png", "AVOSEWip2.png"],
+        "tipo": "Asset",
+        "info": ["Realistic Model + Material + Textures", "  Blender + GIMP"],
+        "fecha": "2018"
+    },
+    {
+        "nombre": "Computador",
+        "mainimg": "ACPUp.png",
+        "secondaryimgs": ["ACPUWIP1.png", "ACPUWIP2.png", "ACPUWIP3.png", "ACPUWIP4.png", "ACPUWIP5.png"],
+        "tipo": "Asset",
+        "info": [" Videogame - Low Poly Model + Textures", "  Blender + GIMP"],
+        "fecha": "2013"
+    },
     
 
 
