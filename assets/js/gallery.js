@@ -1,4 +1,5 @@
 $(document).ready(function(){
+    //Gets the hash type of gallery from the link and passes it to the function
     var cond = $(location).attr('hash')
     if(cond){
         cond = cond.substring(1,cond.length)
@@ -10,10 +11,11 @@ $(document).ready(function(){
 })
 
 function loadGallery(condition){
+
     $.getJSON('./portfolio.json', data =>{
+        //Load the id of the divs where gallery and modals are to be loaded and clears them
         var gal = $("#portfolio-gallery")
         var mod = $("#modals")
-
         gal.empty()
         mod.empty()
 
@@ -27,7 +29,7 @@ function loadGallery(condition){
             }
 
             if(trabajo.tipo == type){
-                console.log(trabajo)
+                
                 var column = $(
                 '<div class="col-sm-6 col-md-4 portfolio-item">' 
                     + '<a class="portfolio-link" data-toggle="modal" href="#portfolioModal'+ i +'">' 
@@ -61,10 +63,10 @@ function loadGallery(condition){
                 
                 if(trabajo.prev3d){
                     carousel += '<div class="carousel-item">' +
-                                    '<iframe allowfullscreen webkitallowfullscreen width="640" height="480" frameborder="0" seamless src="' + trabajo.prev3d +'"></iframe>' +
+                                    '<iframe allowfullscreen webkitallowfullscreen width="100%" height="400" frameborder="0" seamless src="' + trabajo.prev3d +'"></iframe>' +
                                 '</div>'
-                }
-                
+                }    
+
                 
                 var modal = $(
                     '<div class="modal fade portfolio-modal text-center" role="dialog" tabindex="-1" id="portfolioModal'+ i +'">'
