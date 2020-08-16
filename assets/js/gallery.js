@@ -54,10 +54,17 @@ function loadGallery(condition){
                             }else{
                                 return '<div class="carousel-item">' +
                                         '<img class="img-fluid d-block mx-auto" src="assets/img/port/' + img + '" alt="img' + i + '">' +
-                                    '</div>'   
+                                    '</div>'                                   
                             }
                                
                         }).join(' ')
+                
+                if(trabajo.prev3d){
+                    carousel += '<div class="carousel-item">' +
+                                    '<iframe allowfullscreen webkitallowfullscreen width="640" height="480" frameborder="0" seamless src="' + trabajo.prev3d +'"></iframe>' +
+                                '</div>'
+                }
+                
                 
                 var modal = $(
                     '<div class="modal fade portfolio-modal text-center" role="dialog" tabindex="-1" id="portfolioModal'+ i +'">'

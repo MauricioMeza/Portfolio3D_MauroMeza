@@ -124,6 +124,7 @@
         "mainimg": "AProtectorp.png",
         "secondaryimgs": ["AProtectorFinal.png", "AProtectorWIP1.png", "AProtectorWIP2.png", "AProtectorLOD1.png", "AProtectorLOD2.png"],
         "tipo": "Asset",
+        "prev3d": "https://p3d.in/e/AwX1B",
         "info": [" Videogame - Model + Textures + LODs", " Blender + GIMP"],
         "fecha": "2017"
     },
@@ -148,6 +149,7 @@
         "mainimg": "AUGDp.png",
         "secondaryimgs": ["AUGD.png", "AUGDw.png", "AUGDL1.png", "AUGDL2.png"],
         "tipo": "Asset",
+        "prev3d": "https://p3d.in/e/xXkX6",
         "info": [" Videogame - Model + Textures + LODs", " Blender + GIMP"],
         "fecha": "2017"
     },
@@ -164,6 +166,7 @@
         "mainimg": "ACarrierp.png",
         "secondaryimgs": ["ACarrier.png", "ACarrierw.png", "ACarrier1.png", "ACarrier2.png", "ACarrier3.png"],
         "tipo": "Asset",
+        "prev3d": "https://sketchfab.com/models/12183310779843179ee29880d104b0d9/embed?autospin=0.2&amp;autostart=1&amp;camera=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
         "info": [" Videogame - Model + Textures", " Blender + GIMP"],
         "fecha": "2017"
     },
@@ -208,20 +211,23 @@
         "fecha": "2018"
     },
     {
-        "nombre": "LVTP-7",
-        "mainimg": "ALVTP-7p.png",
-        "secondaryimgs": ["ALVTP-7Wip1.png", "ALVTP-7Wip2.png", "ALVTP-7Wip3.png"],
-        "tipo": "Asset",
-        "info": [" Videogame - Low Poly Model + Textures", "  Blender + GIMP"],
-        "fecha": "2013"
-    },
-    {
         "nombre": "BOSE",
         "mainimg": "AVOSEp.png",
         "secondaryimgs": ["AVOSEWip1.png", "AVOSEWip2.png"],
+        "prev3d": "https://sketchfab.com/models/7b355ef513064abc8bb356ef00691637/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
         "tipo": "Asset",
         "info": ["Realistic Model + Material + Textures", "  Blender + GIMP"],
         "fecha": "2018"
+    },
+    {
+        "nombre": "LVTP-7",
+        "mainimg": "ALVTP-7p.png",
+        "secondaryimgs": ["ALVTP-7Wip1.png", "ALVTP-7Wip2.png", "ALVTP-7Wip3.png"],
+        "prev3d": "https://sketchfab.com/models/51033edf2c764a1092cf497538df9a84/embed?autospin=0.2&amp;autostart=1&amp;camera=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1"
+    ,
+        "tipo": "Asset",
+        "info": [" Videogame - Low Poly Model + Textures", "  Blender + GIMP"],
+        "fecha": "2013"
     },
     {
         "nombre": "Computador",
