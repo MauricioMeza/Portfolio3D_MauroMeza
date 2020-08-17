@@ -48,24 +48,30 @@ function loadGallery(condition){
                 gal.append(column)
                 
                 var carousel = ''
-                carousel += trabajo.secondaryimgs.map((img, j) => {
-                            if(j == 0){
-                                return '<div class="carousel-item active">' +
-                                        '<img class="img-fluid d-block mx-auto" src="assets/img/port/' + img + '" alt="img' + i + '">' +
-                                    '</div>'
-                            }else{
-                                return '<div class="carousel-item">' +
-                                        '<img class="img-fluid d-block mx-auto" src="assets/img/port/' + img + '" alt="img' + i + '">' +
-                                    '</div>'                                   
-                            }
-                               
-                        }).join(' ')
-                
-                if(trabajo.prev3d){
-                    carousel += '<div class="carousel-item">' +
-                                    '<iframe allowfullscreen webkitallowfullscreen width="100%" height="400" frameborder="0" seamless src="' + trabajo.prev3d +'"></iframe>' +
+                if(trabajo.tipo == "Animacion"){
+                    carousel += '<div class="carousel-item active">' +
+                                        '<iframe width="560" height="315" src="' + trabajo.video + '" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>' +
+                                    '</div>'        
+                }else{
+                    carousel += trabajo.secondaryimgs.map((img, j) => {
+                        if(j == 0){
+                            return '<div class="carousel-item active">' +
+                                    '<img class="img-fluid d-block mx-auto" src="assets/img/port/' + img + '" alt="img' + i + '">' +
                                 '</div>'
-                }    
+                        }else{
+                            return '<div class="carousel-item">' +
+                                    '<img class="img-fluid d-block mx-auto" src="assets/img/port/' + img + '" alt="img' + i + '">' +
+                                '</div>'                                   
+                        }
+                           
+                    }).join(' ')
+            
+                    if(trabajo.prev3d){
+                        carousel += '<div class="carousel-item">' +
+                                        '<iframe allowfullscreen webkitallowfullscreen width="100%" height="400" frameborder="0" seamless src="' + trabajo.prev3d +'"></iframe>' +
+                                    '</div>'
+                    }    
+                }
 
                 
                 var modal = $(

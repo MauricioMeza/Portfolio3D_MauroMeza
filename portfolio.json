@@ -268,6 +268,74 @@
         "tipo": "Sketchup",
         "info": [" Google Earth Model", "Sketchup"],
         "fecha": "2018"
+    },
+
+
+    {
+        "nombre": "Guerrero Vikingo",
+        "mainimg": "NMWarriorP.png",
+        "video": "https://www.youtube.com/embed/drnePkhmY2g",
+        "tipo": "Animacion",
+        "info": [" Character Animation"],
+        "fecha": "2016"
+    },
+    {
+        "nombre": "Intro Champions League Javeriano",
+        "mainimg": "NMChampionsP.png",
+        "video": "https://www.youtube.com/embed/T1LP5NlAyOM",
+        "tipo": "Animacion",
+        "info": [" Intro Animation"],
+        "fecha": "2015"
+    },
+    {
+        "nombre": "Evolucion de la Vivienda",
+        "mainimg": "NMViviendaP.png",
+        "video": "https://www.youtube.com/embed/7QXd3Aunw0Y",
+        "tipo": "Animacion",
+        "info": [" Blender Render Animation"],
+        "fecha": "2014"
+    },
+    {
+        "nombre": "Nuke",
+        "mainimg": "NMNukeP.png",
+        "video": "https://www.youtube.com/embed/SWNP1IK4Dkw",
+        "tipo": "Animacion",
+        "info": [" Blender Render Animation"],
+        "fecha": "2015"
+    },
+    {
+        "nombre": "Meteorito Nariño",
+        "mainimg": "NMMeteoritoP.png",
+        "video": "https://www.youtube.com/embed/XcmPVL0hYm0",
+        "tipo": "Animacion",
+        "info": [" Blender Render Animation"],
+        "fecha": "2015"
+    },
+    {
+        "nombre": "Intro Noticias",
+        "mainimg": "NMNewsP.png",
+        "video": "https://www.youtube.com/embed/O6TAjCaQcNM",
+        "tipo": "Animacion",
+        "info": [" Blender Render Animation"],
+        "fecha": "2013"
+    },
+    {
+        "nombre": "House Cloth Test",
+        "mainimg": "NMHClothP.png",
+        "video": "https://www.youtube.com/embed/PgfcFQI6Zok",
+        "tipo": "Animacion",
+        "info": [" Cloth Simultaion Test"],
+        "fecha": "2014"
+    },
+    {
+        "nombre": "Holograph Tracking",
+        "mainimg": "NMHClothP.png",
+        "video": "https://www.youtube.com/embed/XoZqJyD-T_o",
+        "tipo": "Animacion",
+        "info": [" Tracking Test"],
+        "fecha": "2014"
     }
+
+
 
 ]
