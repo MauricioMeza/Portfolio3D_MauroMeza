@@ -272,6 +272,14 @@
 
 
     {
+        "nombre": "Holograph Tracking",
+        "mainimg": "NMHoloP.png",
+        "video": "https://www.youtube.com/embed/XoZqJyD-T_o",
+        "tipo": "Animacion",
+        "info": [" Tracking Test"],
+        "fecha": "2014"
+    },
+    {
         "nombre": "Guerrero Vikingo",
         "mainimg": "NMWarriorP.png",
         "video": "https://www.youtube.com/embed/drnePkhmY2g",
@@ -296,12 +304,12 @@
         "fecha": "2014"
     },
     {
-        "nombre": "Nuke",
-        "mainimg": "NMNukeP.png",
-        "video": "https://www.youtube.com/embed/SWNP1IK4Dkw",
+        "nombre": "House Cloth Test",
+        "mainimg": "NMHClothP.png",
+        "video": "https://www.youtube.com/embed/PgfcFQI6Zok",
         "tipo": "Animacion",
-        "info": [" Blender Render Animation"],
-        "fecha": "2015"
+        "info": [" Cloth Simultaion Test"],
+        "fecha": "2014"
     },
     {
         "nombre": "Meteorito Nariño",
@@ -309,7 +317,7 @@
         "video": "https://www.youtube.com/embed/XcmPVL0hYm0",
         "tipo": "Animacion",
         "info": [" Blender Render Animation"],
-        "fecha": "2015"
+        "fecha": "2017"
     },
     {
         "nombre": "Intro Noticias",
@@ -320,21 +328,14 @@
         "fecha": "2013"
     },
     {
-        "nombre": "House Cloth Test",
-        "mainimg": "NMHClothP.png",
-        "video": "https://www.youtube.com/embed/PgfcFQI6Zok",
+        "nombre": "Nuke",
+        "mainimg": "NMNukeP.png",
+        "video": "https://www.youtube.com/embed/SWNP1IK4Dkw",
         "tipo": "Animacion",
-        "info": [" Cloth Simultaion Test"],
-        "fecha": "2014"
-    },
-    {
-        "nombre": "Holograph Tracking",
-        "mainimg": "NMHClothP.png",
-        "video": "https://www.youtube.com/embed/XoZqJyD-T_o",
-        "tipo": "Animacion",
-        "info": [" Tracking Test"],
-        "fecha": "2014"
+        "info": [" Blender Render Animation"],
+        "fecha": "2015"
     }
+    
 
 
 

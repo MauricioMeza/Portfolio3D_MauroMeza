@@ -50,7 +50,7 @@ function loadGallery(condition){
                 var carousel = ''
                 if(trabajo.tipo == "Animacion"){
                     carousel += '<div class="carousel-item active">' +
-                                        '<iframe width="560" height="315" src="' + trabajo.video + '" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>' +
+                                        '<iframe width="640" height="385" src="' + trabajo.video + '" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>' +
                                     '</div>'        
                 }else{
                     carousel += trabajo.secondaryimgs.map((img, j) => {
