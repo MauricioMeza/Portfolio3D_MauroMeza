@@ -82,7 +82,6 @@
         "info": [" Blender Internal", " Blender + GIMP"]
     },
     {
-        "id": "R11",
         "nombre": "FPS MP5",
         "mainimg": "9x_MP5 Renderp.png",
         "secondaryimgs": ["9x_MP5RenderFinal.png", "9x_MP5RenderWIP1.png", "9x_MP5RenderWIP2.png", "9x_MP5RenderWIP3.jpg", "9x_MP5RenderWIP4.png"],
@@ -90,7 +89,6 @@
         "info": [" Cycles", " Blender + GIMP"]
     },
     {
-        "id": "R12",
         "nombre": "Computador",
         "mainimg": "2_Computadorp.png",
         "secondaryimgs": ["2_ComputadorFinal.png", "2_ComputadorWIP1.png", "2_ComputadorWIP2.png", "2_ComputadorWIP3.png", "2_ComputadorWIP4.png", "2_ComputadorWIP5.png"],
@@ -99,7 +97,6 @@
         "fecha": "2019"
     },
     {
-        "id": "R13",
         "nombre": "Mapa Colombia",
         "mainimg": "0_MapaColombiap.png",
         "secondaryimgs": ["0_MapaColombia1.png", "0_MapaColombia2.png", "0_MapaColombia3.png", "0_MapaColombia4.png", "0_MapaColombia5.png"],
