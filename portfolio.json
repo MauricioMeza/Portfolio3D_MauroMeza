@@ -82,6 +82,7 @@
         "info": [" Blender Internal", " Blender + GIMP"]
     },
     {
+        "id": "R11",
         "nombre": "FPS MP5",
         "mainimg": "9x_MP5 Renderp.png",
         "secondaryimgs": ["9x_MP5RenderFinal.png", "9x_MP5RenderWIP1.png", "9x_MP5RenderWIP2.png", "9x_MP5RenderWIP3.jpg", "9x_MP5RenderWIP4.png"],
@@ -89,6 +90,7 @@
         "info": [" Cycles", " Blender + GIMP"]
     },
     {
+        "id": "R12",
         "nombre": "Computador",
         "mainimg": "2_Computadorp.png",
         "secondaryimgs": ["2_ComputadorFinal.png", "2_ComputadorWIP1.png", "2_ComputadorWIP2.png", "2_ComputadorWIP3.png", "2_ComputadorWIP4.png", "2_ComputadorWIP5.png"],
@@ -97,6 +99,7 @@
         "fecha": "2019"
     },
     {
+        "id": "R13",
         "nombre": "Mapa Colombia",
         "mainimg": "0_MapaColombiap.png",
         "secondaryimgs": ["0_MapaColombia1.png", "0_MapaColombia2.png", "0_MapaColombia3.png", "0_MapaColombia4.png", "0_MapaColombia5.png"],
@@ -105,6 +108,7 @@
         "fecha": "2020"
     },
     {
+        "id": "R14",
         "nombre": "Ron Viejo de Caldas",
         "mainimg": "5_Ronp.png",
         "secondaryimgs": ["5_RonFinal.png", "5_RonWIP1.png", "5_RonWIP2.png", "5_RonWIP3.png", "5_RonWIP4.png"],
@@ -113,9 +117,6 @@
         "fecha": "2016"
     },
     
-    
-
-
 
 
 
@@ -195,8 +196,6 @@
         "info": [" Videogame - Low Poly Model + Textures", " Blender + GIMP"],
         "fecha": "2015"
     },
-
-
     {
         "nombre": "Super Etendard Jet",
         "mainimg": "AJetSuperEp.png",
@@ -227,8 +226,16 @@
         "nombre": "LVTP-7",
         "mainimg": "ALVTP-7p.png",
         "secondaryimgs": ["ALVTP-7Wip1.png", "ALVTP-7Wip2.png", "ALVTP-7Wip3.png"],
-        "prev3d": "https://sketchfab.com/models/51033edf2c764a1092cf497538df9a84/embed?autospin=0.2&amp;autostart=1&amp;camera=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1"
-    ,
+        "prev3d": "https://sketchfab.com/models/51033edf2c764a1092cf497538df9a84/embed?autospin=0.2&amp;autostart=1&amp;camera=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
+        "tipo": "Asset",
+        "info": [" Videogame - Low Poly Model + Textures", "  Blender + GIMP"],
+        "fecha": "2013"
+    },
+    {
+        "nombre": "Chinook Helicoptero",
+        "mainimg": "AChinookp.png",
+        "secondaryimgs": ["AChinook1.png", "AChinookw.png"],
+        "prev3d": "https://sketchfab.com/models/72b5123bda964e9aa5343384734977e2/embed?autospin=0.2&amp;autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
         "tipo": "Asset",
         "info": [" Videogame - Low Poly Model + Textures", "  Blender + GIMP"],
         "fecha": "2013"
@@ -240,6 +247,15 @@
         "tipo": "Asset",
         "info": [" Videogame - Low Poly Model + Textures", "  Blender + GIMP"],
         "fecha": "2013"
+    },
+    {
+        "nombre": "Pistola - Walther P99",
+        "mainimg": "AP99p.png",
+        "secondaryimgs": ["AP99Wip1.png", "AP99Wipw.png", "AP99Wip2.png"],
+        "prev3d": "https://p3d.in/e/iSE8X+spin+load",
+        "tipo": "Asset",
+        "info": [" Videogame - Low Poly Model + Textures", "  Blender + GIMP"],
+        "fecha": "2019"
     },
     
 
@@ -269,8 +285,6 @@
         "info": [" Google Earth Model", "Sketchup"],
         "fecha": "2018"
     },
-
-
     {
         "nombre": "Holograph Tracking",
         "mainimg": "NMHoloP.png",
@@ -335,8 +349,4 @@
         "info": [" Blender Render Animation"],
         "fecha": "2015"
     }
-    
-
-
-
 ]
