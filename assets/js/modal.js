@@ -13,9 +13,12 @@ function openModal(i){
 
         //Generate carousel items from images and previews
         var carousel = ''
+        var multiple = false
         if(trabajo.tipo == "Animacion"){
             carousel += '<div class="carousel-item active">' +
-                                '<iframe width="640" height="385" src="' + trabajo.video + '" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>' +
+                            '<div class="video-item">' +
+                                '<iframe src="' + trabajo.video + '" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>' +
+                            '</div>' +
                         '</div>'        
         }else{
             carousel += trabajo.secondaryimgs.map((img, j) => {
@@ -26,6 +29,7 @@ function openModal(i){
                                '</div>' +
                             '</div>'
                 }else{
+                    multiple = true;
                     return '<div class="carousel-item">' +
                                 '<img class="img-fluid d-block mx-auto" src="assets/img/port/' + img + '" alt="img' + i + '">' +
                             '</div>'                                   
