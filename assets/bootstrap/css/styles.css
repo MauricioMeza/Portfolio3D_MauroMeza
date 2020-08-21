@@ -1,6 +1,8 @@
 
 /* -------- Styles for index.html -------- */
-
+body{
+  width: 100%;  
+}
 .intro-buttons-div{
     padding: 560px 0px 15px
 }
@@ -31,10 +33,6 @@
 .soft-row{
     margin: 0px 0px 100px 0px
 }
-.soft-img{
-
-}
-
 .contac-button{
     width: 300px;
     margin: 10px 20px;
