@@ -1,4 +1,4 @@
-function openModal(i){
+function openModal(i, en){
     //Empty previous information in modal
     var carin = $("#carousel-innermain")
     carin.empty()
@@ -44,10 +44,18 @@ function openModal(i){
         }
         carin.append(carousel)
 
-        $("#main-name").append('<b> Nombre: </b>'+ trabajo.nombre)
-        $("#main-type").append('<b> Tipo: </b>'  + trabajo.tipo)
-        $("#main-year").append('<b> Fecha: </b>' + trabajo.fecha)
-        $("#main-info").append('<b> Info: </b>'  + trabajo.info)
+        if(en){
+            $("#main-name").append('<b> Name: </b>'+ trabajo.name)
+            $("#main-type").append('<b> Type: </b>'  + trabajo.tipo)
+            $("#main-year").append('<b> Year: </b>' + trabajo.fecha)
+            $("#main-info").append('<b> Info: </b>'  + trabajo.info)
+        }else{
+            $("#main-name").append('<b> Nombre: </b>'+ trabajo.nombre)
+            $("#main-type").append('<b> Tipo: </b>'  + trabajo.tipo)
+            $("#main-year").append('<b> Fecha: </b>' + trabajo.fecha)
+            $("#main-info").append('<b> Info: </b>'  + trabajo.info)
+        }
+        
 
     })       
 }

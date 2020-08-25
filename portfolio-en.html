@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+        <title>Mauricio Meza 3D</title>
+        <link rel="manifest" href="manifest.json">
+        <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kaushan+Script">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="assets/bootstrap/css/styles.css">
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    </head>
+
+    <body id="page-top">
+
+        <nav class="navbar navbar-dark navbar-expand-lg fixed-top bg-dark" id="mainNav">
+            <div class="container">
+                <a class="navbar-brand" href="index.html#page-top" style="font-family: 'Droid Serif';">Mauricio Meza 3D</a>
+                <a href="portfolio-en.html"> en</a>
+                <a href="">&nbsp || &nbsp</a>
+                <a href="portfolio.html"> es  </a>
+                <button data-toggle="collapse" data-target="#navbarResponsive" class="navbar-toggler navbar-toggler-right" type="button" data-toogle="collapse" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><i class="fa fa-bars"></i></button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="nav navbar-nav ml-auto text-uppercase">
+                        <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" href="#">Portfolio</a>
+                            <div class="dropdown-menu" role="menu">
+                                <a class="dropdown-item" role="presentation" href="portfolio.html#Render" onclick='loadGallery("Render")'>Renders</a>
+                                <a class="dropdown-item" role="presentation" href="portfolio.html#Animacion" onclick='loadGallery("Animacion")'>Animation</a>
+                                <a class="dropdown-item" role="presentation" href="portfolio.html#Asset" onclick='loadGallery("Asset")'>Assets</a>
+                                <a class="dropdown-item" role="presentation" href="portfolio.html#Asset" onclick='loadGallery("Sketchup")'>Sketchup</a></div>
+                        </li>
+                        <li class="nav-item" role="presentation"><a class="nav-link js-scroll-trigger" href="index.html#informacion">Information</a></li>
+                        <li class="nav-item" role="presentation"><a class="nav-link js-scroll-trigger" href="index.html#software">Software</a></li>
+                        <li class="nav-item" role="presentation"><a class="nav-link js-scroll-trigger" href="index.html#contact">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <header class="masthead intro-back-header2">
+            <div class="container">
+                <div class="intro-buttons-div2">
+                    <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='loadGallery("all")'> All</button>
+                    <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='loadGallery("Render")'> Renders</button>
+                    <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='loadGallery("Animacion")'> Animation</button>
+                    <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='loadGallery("Asset")'> Assets</button>
+                    <button class="btn btn-primary btn-xl text-uppercase js-scroll-trigger intro-buttons" onclick='loadGallery("Sketchup")'> Sketchup</button>
+                </div>
+            </div>
+        </header>
+
+        <section class ="msection" id="portfolio" class="bg-light">
+            <div class="container">
+                <div class="row" id="portfolio-gallery">
+                    
+                </div>
+            </div>    
+        </section>
+        
+        <footer>
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-4 text-center align-self-center">
+                        <ul class="list-inline social-buttons">
+                            <li class="list-inline-item"><a href="https://www.instagram.com/mauro_mezab"><i class="fa fa-instagram"></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.facebook.com/mauricio.mezaburbano/"><i class="fa fa-facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.youtube.com/channel/UCzJklGma-rQ7b9Y3wu8TNUw"><i class="fa fa-youtube-play"></i></a></li>
+                            <li class="list-inline-item"><a href="https://vimeo.com/user17714306"><i class="fa fa-vimeo"></i></a></li>
+                        </ul><span class="copyright">Copyright&nbsp;© Mauricio Meza 3D 2020</span></div>
+                </div>
+            </div>
+        </footer>
+        
+        <div id="modals">
+            <div class="modal fade portfolio-modal text-center" role="dialog" tabindex="-1" id="portfolioModalmain">
+                <div class="modal-dialog modal-lg" role="document">
+                    <div class="modal-content content">
+                        <button class="btn btn-primary boton-cerrar" data-dismiss="modal" type="button"><i class="fa fa-times"></i><span>&nbsp;Close</span></button>
+                        <div class="modal-body">
+                            <div id="mycarouselmain" class="carousel slide" data-ride="carousel"> 
+                                <div class="carousel-inner" id="carousel-innermain">        
+                                </div>
+        
+                                <a class="carousel-control-prev" href="#mycarouselmain" role="button" data-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="sr-only">Anterior</span>
+                                </a>
+                                <a class="carousel-control-next" href="#mycarouselmain" role="button" data-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="sr-only">Siguiente</span>
+                                </a>
+                                  
+                            </div>
+                            <p class="project-info" id="main-name">  </p>
+                            <p class="project-info" id="main-type">  </p>
+                            <p class="project-info" id="main-year">  </p>
+                            <p class="project-info" id="main-info">  </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+        <script src="assets/js/agency.js"></script>
+        <script src="assets/js/gallery.js"></script>
+        <script src="assets/js/modal.js"></script>
+    </body>
+
+</html>    
