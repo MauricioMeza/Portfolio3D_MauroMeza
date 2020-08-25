@@ -334,7 +334,8 @@
 
 
     {
-        "nombre": "Holograph Tracking",
+        "nombre": "Tracking Holograma",
+        "name": "Holograph Tracking",
         "mainimg": "NMHoloP.png",
         "video": "https://www.youtube.com/embed/XoZqJyD-T_o",
         "tipo": "Animacion",
@@ -343,6 +344,7 @@
     },
     {
         "nombre": "Guerrero Vikingo",
+        "name": "Viking Warrior",
         "mainimg": "NMWarriorP.png",
         "video": "https://www.youtube.com/embed/drnePkhmY2g",
         "tipo": "Animacion",
@@ -351,6 +353,7 @@
     },
     {
         "nombre": "Intro Champions League Javeriano",
+        "name": "Intro Champions League Javeriano",
         "mainimg": "NMChampionsP.png",
         "video": "https://www.youtube.com/embed/T1LP5NlAyOM",
         "tipo": "Animacion",
@@ -359,6 +362,7 @@
     },
     {
         "nombre": "Evolucion de la Vivienda",
+        "name": "Evolution of Housing",
         "mainimg": "NMViviendaP.png",
         "video": "https://www.youtube.com/embed/7QXd3Aunw0Y",
         "tipo": "Animacion",
@@ -366,7 +370,8 @@
         "fecha": "2014"
     },
     {
-        "nombre": "House Cloth Test",
+        "nombre": "Casa Prueba Simulacion de Tela",
+        "name": "House Cloth Test",
         "mainimg": "NMHClothP.png",
         "video": "https://www.youtube.com/embed/PgfcFQI6Zok",
         "tipo": "Animacion",
@@ -375,6 +380,7 @@
     },
     {
         "nombre": "Meteorito Nariño",
+        "name": "Nariño Meteorite",
         "mainimg": "NMMeteoritoP.png",
         "video": "https://www.youtube.com/embed/XcmPVL0hYm0",
         "tipo": "Animacion",
@@ -383,6 +389,7 @@
     },
     {
         "nombre": "Intro Noticias",
+        "name": "Intro News",
         "mainimg": "NMNewsP.png",
         "video": "https://www.youtube.com/embed/O6TAjCaQcNM",
         "tipo": "Animacion",
@@ -390,7 +397,8 @@
         "fecha": "2013"
     },
     {
-        "nombre": "Nuke",
+        "nombre": "Animacion Bomba Atomica",
+        "name": "Nuke Animation",
         "mainimg": "NMNukeP.png",
         "video": "https://www.youtube.com/embed/SWNP1IK4Dkw",
         "tipo": "Animacion",
