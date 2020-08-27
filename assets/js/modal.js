@@ -11,7 +11,7 @@ function openModal(i, en){
     $.getJSON('./portfolio.json', data =>{
         trabajo = data[i];
 
-        //Generate carousel items from images and previews
+        //Generate carousel items from main videos, main images, secindary imgs and 3D previews
         var carousel = ''
         var multiple = false
         if(trabajo.tipo == "Animacion"){
@@ -44,6 +44,7 @@ function openModal(i, en){
         }
         carin.append(carousel)
 
+        //Different text deppending on english or spanish version
         if(en){
             $("#main-name").append('<b> Name: </b>'+ trabajo.name)
             $("#main-type").append('<b> Type: </b>'  + trabajo.tipo)
