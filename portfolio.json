@@ -290,6 +290,15 @@
         "fecha": "2019"
     },
     {
+        "nombre": "Texturas para Mod Project Reality - Battlefield 2",
+        "name": "Textures for Mod Project Reality - Battlefield 2",
+        "mainimg": "A-PolTex_Alexp.png",
+        "secondaryimgs": ["A-PolTex_Alex.png", "A-PolTex_AScope.png", "APolTex_HK-98.png", "A-PolTex_Honker1.png", "A-PolTex_Honker2.png", "A-PolTex_Honker3.png", "A-PolTex_Kits.png", "A-PolTex_Kits2.png"],
+        "tipo": "Asset",
+        "info": [" Videogame - Model made for Project Reality mod, Textures made by me", "  Blender + GIMP"],
+        "fecha": "2019"
+    },
+    {
         "nombre": "Cuchillo de Supervivencia",
         "name": "Survival Knife",
         "mainimg": "AKnifep.png",
