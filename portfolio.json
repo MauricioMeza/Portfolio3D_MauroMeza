@@ -115,10 +115,11 @@
     {
         "nombre": "Mapa Colombia",
         "name": "Colombia Map",
-        "mainimg": "0_MapaColombiap.png",
+        "mainimg": "0_MapaColombia6 - copia.png",
         "front": 5,
-        "secondaryimgs": ["0_MapaColombia1.png", "0_MapaColombia2.png", "0_MapaColombia3.png", "0_MapaColombia4.png", "0_MapaColombia5.png"],
+        "secondaryimgs": ["0_MapaColombia6.png", "0_MapaColombia7.png", "0_MapaColombia1.png", "0_MapaColombia2.png", "0_MapaColombia3.png", "0_MapaColombia4.png", "0_MapaColombia5.png"],
         "tipo": "Render",
+		"prev3d": "https://sketchfab.com/models/7d16ccfe4672452a8c5194604335f9cf/embed?autospin=0&autostart=1",
         "info": [" Cycles", " Blender + GIMP"],
         "fecha": "2020"
     },
