@@ -115,7 +115,7 @@
     {
         "nombre": "Mapa Colombia",
         "name": "Colombia Map",
-        "mainimg": "0_MapaColombia6 - copia.png",
+        "mainimg": "0_MapaColombiap.png",
         "front": 5,
         "secondaryimgs": ["0_MapaColombia6.png", "0_MapaColombia7.png", "0_MapaColombia1.png", "0_MapaColombia2.png", "0_MapaColombia3.png", "0_MapaColombia4.png", "0_MapaColombia5.png"],
         "tipo": "Render",
