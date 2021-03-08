@@ -1,5 +1,5 @@
 [
-    {
+	{
         "nombre": "Colegio Javeriano Renovacion",
         "name": "Javeriano High School Renovation",
         "mainimg": "1_ColegioRenovadop.png",
@@ -131,10 +131,17 @@
         "info": [" Cycles", " Blender + GIMP"],
         "fecha": "2016"
     },
-    
-
-
-
+	{
+        "nombre": "Santuario de las Lajas - Tour Virtual",
+        "name": "Santuario de las Lajas - Virtual Tour",
+        "mainimg": "A-lajasp.png",
+        "front": 3,
+        "secondaryimgs": ["A-lajas1.png", "A-lajas2.png", "A-lajas3.png", "A-lajas4.png", "A-lajas5.png", "A-lajas6.png","A-lajas7.png", "A-lajas8.png", "A-lajas9.png"],
+        "prev3d": "https://sketchfab.com/models/63dc90c547114f719c69d18439ca08e5/embed?autospin=1&autostart=1",
+		"tipo": "Asset",
+        "info": [" Realtime Unity WebGL ", " Blender + Unity"],
+        "fecha": "2020"
+    },
     {
         "nombre": "RWS Protector",
         "name": "RWS Protector",
@@ -204,7 +211,6 @@
     {
         "nombre": "Tanque Araña",
         "name": "Spider Tank",
-        "front": 3,
         "mainimg": "ASpiderTankp.png",
         "secondaryimgs": ["ASpiderTank1.png", "ASpiderTankw.png", "ASpiderTank2.png", "ASpiderTank3.png"],
         "tipo": "Asset",
