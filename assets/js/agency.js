@@ -48,13 +48,13 @@
   })
 
   $("#btn-back-rend").mouseover(function(){
-    $("#intro-back-header").css("background-image", "url('assets/img/1_ColegioAntiguo.png')");
+    $("#intro-back-header").css("background-image", "url('assets/img/1_ColegioRenovadoFinal.png')");
   })
   $("#btn-back-sktc").mouseover(function(){
     $("#intro-back-header").css("background-image", "url('assets/img/SKGoogleUnicentro2.jpg')");
   })
   $("#btn-back-asst").mouseover(function(){
-    $("#intro-back-header").css("background-image", "url('assets/img/ASpiderTank.png')");
+    $("#intro-back-header").css("background-image", "url('assets/img/ASombreros.png')");
   })
   $("#btn-back-anim").mouseover(function(){
     $("#intro-back-header").css("background-image", "url('assets/img/Tanque_Abrahams.gif')");

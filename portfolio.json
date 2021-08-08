@@ -3,7 +3,7 @@
         "nombre": "Colegio Javeriano Renovacion",
         "name": "Javeriano High School Renovation",
         "mainimg": "1_ColegioRenovadop.png",
-        "front": 1,
+        "front": 3,
         "secondaryimgs": ["1_ColegioRenovadoFinal.png", "1_ColegioRenovadoWIP1.png", "1_ColegioRenovadoWIP2.png", "1_ColegioRenovadoWIP3.png", "1_ColegioRenovadoWIP4.png", "1_ColegioRenovadoWIP5.png","1_ColegioRenovadoWIP6.png"],
         "tipo": "Render",
         "info": [" Cycles", " Blender + GIMP"],
@@ -132,16 +132,36 @@
         "info": [" Cycles", " Blender + GIMP"],
         "fecha": "2016"
     },
+
+
 	{
         "nombre": "Santuario de las Lajas - Tour Virtual",
         "name": "Santuario de las Lajas - Virtual Tour",
         "mainimg": "A-lajasp.png",
-        "front": 3,
+        "front": 1,
         "secondaryimgs": ["A-lajas1.png", "A-lajas2.png", "A-lajas3.png", "A-lajas4.png", "A-lajas5.png", "A-lajas6.png","A-lajas7.png", "A-lajas8.png", "A-lajas9.png"],
         "prev3d": "https://sketchfab.com/models/63dc90c547114f719c69d18439ca08e5/embed?autospin=1&autostart=1",
 		"tipo": "Asset",
         "info": [" Realtime Unity WebGL ", " Blender + Unity"],
         "fecha": "2020"
+    },
+    {
+        "nombre": "Sombreros 3D",
+        "name": "3D Headgear",
+        "mainimg": "ASombrerosp.png",
+        "secondaryimgs": ["ASombreros.png", "ASombreros2.png", "ASombreros3.jpg", "ASombreros4.png", "ASombreros5.png", "ASombreros6.png"],
+        "tipo": "Asset",
+        "info": [" Low Poly Mode + Textures For CK3-AtE Mod", " Blender + GIMP"],
+        "fecha": "2017"
+    },
+    {
+        "nombre": "Trofeos de Formula 1",
+        "name": "Formula 1 Trophies",
+        "mainimg": "AFp.png",
+        "secondaryimgs": ["AF1.png", "AF2.png"],
+        "tipo": "Asset",
+        "info": [" Videogame - Model + Textures + LODs", " Blender + GIMP"],
+        "fecha": "2017"
     },
     {
         "nombre": "RWS Protector",
@@ -153,6 +173,25 @@
         "info": [" Videogame - Model + Textures + LODs", " Blender + GIMP"],
         "fecha": "2017"
     },
+    {
+        "nombre": "Cuchillo de Supervivencia",
+        "name": "Survival Knife",
+        "mainimg": "AKnifep.png",
+        "secondaryimgs": ["AKnifeWIP1.png", "AKnifeWIPw.png", "AKnifeWIP2.png", "AKnifeWIP3.png"],
+        "tipo": "Asset",
+        "info": [" Vg Asset - Model + Textures + LODs ", "  Blender + GIMP"],
+        "fecha": "2017"
+    },
+    {
+        "nombre": "Texturas para Mod Project Reality - Battlefield 2",
+        "name": "Textures for Mod Project Reality - Battlefield 2",
+        "mainimg": "A-PolTex_Alexp.png",
+        "secondaryimgs": ["A-PolTex_Alex.png", "A-PolTex_AScope.png", "APolTex_HK-98.png", "A-PolTex_Honker1.png", "A-PolTex_Honker2.png", "A-PolTex_Honker3.png", "A-PolTex_Kits.png", "A-PolTex_Kits2.png"],
+        "tipo": "Asset",
+        "info": [" Videogame - Model made for Project Reality mod, Textures made by me", "  Blender + GIMP"],
+        "fecha": "2019"
+    },
+
     {
         "nombre": "Edificios Low Poly 1",
         "name": "Low Poly Buildings 1",
@@ -170,6 +209,16 @@
         "tipo": "Asset",
         "info": [" Videogame - Model + Textures", " Blender + GIMP"],
         "fecha": "2016"
+    },
+     {
+        "nombre": "Portaviones",
+        "name": "Aircraft Carrier",
+        "mainimg": "ACarrierp.png",
+        "secondaryimgs": ["ACarrier.png", "ACarrierw.png", "ACarrier1.png", "ACarrier2.png", "ACarrier3.png"],
+        "tipo": "Asset",
+        "prev3d": "https://sketchfab.com/models/12183310779843179ee29880d104b0d9/embed?autospin=0.2&amp;autostart=1&amp;camera=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
+        "info": [" Videogame - Model + Textures", " Blender + GIMP"],
+        "fecha": "2017"
     },
     {
         "nombre": "UGD200 Granada de Humo",
@@ -189,16 +238,6 @@
         "tipo": "Asset",
         "info": [" Videogame - Low Poly Model + Textures", " Blender + GIMP"],
         "fecha": "2015"
-    },
-    {
-        "nombre": "Portaviones",
-        "name": "Aircraft Carrier",
-        "mainimg": "ACarrierp.png",
-        "secondaryimgs": ["ACarrier.png", "ACarrierw.png", "ACarrier1.png", "ACarrier2.png", "ACarrier3.png"],
-        "tipo": "Asset",
-        "prev3d": "https://sketchfab.com/models/12183310779843179ee29880d104b0d9/embed?autospin=0.2&amp;autostart=1&amp;camera=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
-        "info": [" Videogame - Model + Textures", " Blender + GIMP"],
-        "fecha": "2017"
     },
     {
         "nombre": "Extractora de Petroleo",
@@ -295,25 +334,6 @@
         "tipo": "Asset",
         "info": [" Videogame - Low Poly Model + Textures", "  Blender + GIMP"],
         "fecha": "2019"
-    },
-    {
-        "nombre": "Texturas para Mod Project Reality - Battlefield 2",
-        "name": "Textures for Mod Project Reality - Battlefield 2",
-        "mainimg": "A-PolTex_Alexp.png",
-        "secondaryimgs": ["A-PolTex_Alex.png", "A-PolTex_AScope.png", "APolTex_HK-98.png", "A-PolTex_Honker1.png", "A-PolTex_Honker2.png", "A-PolTex_Honker3.png", "A-PolTex_Kits.png", "A-PolTex_Kits2.png"],
-        "tipo": "Asset",
-        "info": [" Videogame - Model made for Project Reality mod, Textures made by me", "  Blender + GIMP"],
-        "fecha": "2019"
-    },
-    {
-        "nombre": "Cuchillo de Supervivencia",
-        "name": "Survival Knife",
-        "mainimg": "AKnifep.png",
-        "front": 6,
-        "secondaryimgs": ["AKnifeWIP1.png", "AKnifeWIPw.png", "AKnifeWIP2.png", "AKnifeWIP3.png"],
-        "tipo": "Asset",
-        "info": [" Vg Asset - Model + Textures + LODs ", "  Blender + GIMP"],
-        "fecha": "2017"
     },
     
 
@@ -420,5 +440,15 @@
         "tipo": "Animacion",
         "info": [" Blender Render Animation"],
         "fecha": "2015"
+    },
+    {
+        "nombre": "Evolucion del Covid-19 en Colombia",
+        "name": "Covid-19 Evolution - Colombia",
+        "mainimg": "NMCovi.jpg",
+        "front": 6,
+        "video": "https://www.youtube.com/embed/Kbsiaa9vYX0",
+        "tipo": "Animacion",
+        "info": ["Data Visualization - Blender Python API"],
+        "fecha": "2021"
     }
 ]
