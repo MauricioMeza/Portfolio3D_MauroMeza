@@ -148,7 +148,7 @@
     {
         "nombre": "Sombreros 3D",
         "name": "3D Headgear",
-        "mainimg": "ASombrerosp.png",
+        "mainimg": "ASombrerosP.png",
         "secondaryimgs": ["ASombreros.png", "ASombreros2.png", "ASombreros3.jpg", "ASombreros4.png", "ASombreros5.png", "ASombreros6.png"],
         "tipo": "Asset",
         "info": [" Low Poly Mode + Textures For CK3-AtE Mod", " Blender + GIMP"],
