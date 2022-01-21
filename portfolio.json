@@ -10,65 +10,6 @@
         "fecha": "2016"
     },
     {
-        "nombre": "Navidad Aula",
-        "name": "Christmas Clasroom",
-        "mainimg": "3_NavidadAulap.png",
-        "secondaryimgs": ["3_NavidadAulaFinal.png", "3_NavidadAulaWIP1.png", "3_NavidadAulaWIP2.png", "3_NavidadAulaWIP3.png", "3_NavidadAulaWIP4.png", "3_NavidadAulaWIP5.png", "3_NavidadAulaWIP6.png"],
-        "tipo": "Render",
-        "info": [" Cycles", " Blender + GIMP"],
-        "fecha": "2015"
-    },
-    {
-        "nombre": "Sala Viejito",
-        "name": "Oldie Living Room",
-        "mainimg": "6_Viejitosp.png",
-        "secondaryimgs": ["6_ViejitosFinal.png", "6_ViejitosWIP1.png", "6_ViejitosWIP2.png", "6_ViejitosWIP3.png", "6_ViejitosWIP4.png", "6_ViejitosWIP5.png"],
-        "tipo": "Render",
-        "info": [" Cycles", " Blender + GIMP"],
-        "fecha": "2019"
-    },
-    {
-        "nombre": "Mundial Brasil",
-        "name": "Brasil World Cup",
-        "mainimg": "4_MundialBrasilp.png",
-        "secondaryimgs": ["4_MundialBrasilFinal.png", "4_MundialBrasilWIP1.png", "4_MundialBrasilWIP2.png", "4_MundialBrasilWIP3.png", "4_MundialBrasilWIP4.png", "4_MundialBrasilWIP5.png"],
-        "tipo": "Render",
-        "info": [" Cycles", " Blender + GIMP"],
-        "fecha": "2014"
-    },
-    {
-        "nombre": "Cocina",
-        "name": "Kitchen",
-        "mainimg": "11x_Cocinap.png",
-        "secondaryimgs": ["11x_CocinaFinal.png", "11x_CocinaWIP1.png", "11x_CocinaWIP2.png", "11x_CocinaWIP3.png", "11x_CocinaWIP4.png", "11x_CocinaWIP5.png"],
-        "tipo": "Render",
-        "info": [" Cycles", " Blender + GIMP"]
-    },
-    {
-        "nombre": "Granja",
-        "name": "Farm",
-        "mainimg": "12_Granjap.png",
-        "secondaryimgs": ["12_GranjaF.png", "12_GranjaWIP1.png", "12_GranjaWIP2.png", "12_GranjaWIP3.png", "12_GranjaWIP4.png"],
-        "tipo": "Render",
-        "info": [" Cycles", " Blender + GIMP"]
-    },
-    {
-        "nombre": "SuperHeterodino",
-        "name": "Turbo Terrific",
-        "mainimg": "10x_SuperHeterodinop.png",
-        "secondaryimgs": ["10x_SuperHeterodinoWIP1.png", "10x_SuperHeterodinoWIP2.png", "10x_SuperHeterodinoWIP3.png"],
-        "tipo": "Render",
-        "info": ["Blender Internal", " Blender + GIMP"]
-    },
-    {
-        "nombre": "Bar Steampunk",
-        "name": "Steampunk Bar",
-        "mainimg": "x Steampunk Bar p.png",
-        "secondaryimgs": ["x Steampunk Bar Final.png"],
-        "tipo": "Render",
-        "info": [" Cycles", " Blender + GIMP"]
-    },
-    {
         "nombre": "Parque Torobajo",
         "name": "Torobajo Park",
         "front": 2,
@@ -79,29 +20,15 @@
         "fecha": "2019"
     },
     {
-        "nombre": "Guerreros Incas",
-        "name": "Inca Warriors",
-        "mainimg": "x Incasp.png",
-        "secondaryimgs": ["x Incas.png"],
+        "nombre": "Navidad Aula",
+        "name": "Christmas Clasroom",
+        "mainimg": "3_NavidadAulap.png",
+        "secondaryimgs": ["3_NavidadAulaFinal.png", "3_NavidadAulaWIP1.png", "3_NavidadAulaWIP2.png", "3_NavidadAulaWIP3.png", "3_NavidadAulaWIP4.png", "3_NavidadAulaWIP5.png", "3_NavidadAulaWIP6.png"],
         "tipo": "Render",
-        "info": [" Cycles", " Blender + GIMP"]
+        "info": [" Cycles", " Blender + GIMP"],
+        "fecha": "2015"
     },
-    {
-        "nombre": "Colegio Javeriano Antiguo",
-        "name": "Javeriano High School Old",
-        "mainimg": "8x_ColegioAntiguop.png",
-        "secondaryimgs": ["8x_ColegioAntiguoFinal.png", "8x_ColegioAntiguoWIP1.png", "8x_ColegioAntiguoWIP2.png"],
-        "tipo": "Render",
-        "info": [" Blender Internal", " Blender + GIMP"]
-    },
-    {
-        "nombre": "FPS MP5",
-        "name": "FPS MP5",
-        "mainimg": "9x_MP5 Renderp.png",
-        "secondaryimgs": ["9x_MP5RenderFinal.png", "9x_MP5RenderWIP1.png", "9x_MP5RenderWIP2.png", "9x_MP5RenderWIP3.jpg", "9x_MP5RenderWIP4.png"],
-        "tipo": "Render",
-        "info": [" Cycles", " Blender + GIMP"]
-    },
+	
     {
         "nombre": "Computador",
         "name": "Computer Crash",
@@ -133,7 +60,82 @@
         "fecha": "2016"
     },
 
-
+    {
+        "nombre": "Mundial Brasil",
+        "name": "Brasil World Cup",
+        "mainimg": "4_MundialBrasilp.png",
+        "secondaryimgs": ["4_MundialBrasilFinal.png", "4_MundialBrasilWIP1.png", "4_MundialBrasilWIP2.png", "4_MundialBrasilWIP3.png", "4_MundialBrasilWIP4.png", "4_MundialBrasilWIP5.png"],
+        "tipo": "Render",
+        "info": [" Cycles", " Blender + GIMP"],
+        "fecha": "2014"
+    },
+    {
+        "nombre": "Cocina",
+        "name": "Kitchen",
+        "mainimg": "11x_Cocinap.png",
+        "secondaryimgs": ["11x_CocinaFinal.png", "11x_CocinaWIP1.png", "11x_CocinaWIP2.png", "11x_CocinaWIP3.png", "11x_CocinaWIP4.png", "11x_CocinaWIP5.png"],
+        "tipo": "Render",
+        "info": [" Cycles", " Blender + GIMP"]
+    },
+    {
+        "nombre": "Granja",
+        "name": "Farm",
+        "mainimg": "12_Granjap.png",
+        "secondaryimgs": ["12_GranjaF.png", "12_GranjaWIP1.png", "12_GranjaWIP2.png", "12_GranjaWIP3.png", "12_GranjaWIP4.png"],
+        "tipo": "Render",
+        "info": [" Cycles", " Blender + GIMP"]
+    },
+    {
+        "nombre": "Bar Steampunk",
+        "name": "Steampunk Bar",
+        "mainimg": "x Steampunk Bar p.png",
+        "secondaryimgs": ["x Steampunk Bar Final.png"],
+        "tipo": "Render",
+        "info": [" Cycles", " Blender + GIMP"]
+    },
+    {
+        "nombre": "Sala Viejito",
+        "name": "Oldie Living Room",
+        "mainimg": "6_Viejitosp.png",
+        "secondaryimgs": ["6_ViejitosFinal.png", "6_ViejitosWIP1.png", "6_ViejitosWIP2.png", "6_ViejitosWIP3.png", "6_ViejitosWIP4.png", "6_ViejitosWIP5.png"],
+        "tipo": "Render",
+        "info": [" Cycles", " Blender + GIMP"],
+        "fecha": "2019"
+    },
+    {
+        "nombre": "Guerreros Incas",
+        "name": "Inca Warriors",
+        "mainimg": "x Incasp.png",
+        "secondaryimgs": ["x Incas.png"],
+        "tipo": "Render",
+        "info": [" Cycles", " Blender + GIMP"]
+    },
+    {
+        "nombre": "Colegio Javeriano Antiguo",
+        "name": "Javeriano High School Old",
+        "mainimg": "8x_ColegioAntiguop.png",
+        "secondaryimgs": ["8x_ColegioAntiguoFinal.png", "8x_ColegioAntiguoWIP1.png", "8x_ColegioAntiguoWIP2.png"],
+        "tipo": "Render",
+        "info": [" Blender Internal", " Blender + GIMP"]
+    },
+    {
+        "nombre": "FPS MP5",
+        "name": "FPS MP5",
+        "mainimg": "9x_MP5 Renderp.png",
+        "secondaryimgs": ["9x_MP5RenderFinal.png", "9x_MP5RenderWIP1.png", "9x_MP5RenderWIP2.png", "9x_MP5RenderWIP3.jpg", "9x_MP5RenderWIP4.png"],
+        "tipo": "Render",
+        "info": [" Cycles", " Blender + GIMP"]
+    },
+    {
+        "nombre": "SuperHeterodino",
+        "name": "Turbo Terrific",
+        "mainimg": "10x_SuperHeterodinop.png",
+        "secondaryimgs": ["10x_SuperHeterodinoWIP1.png", "10x_SuperHeterodinoWIP2.png", "10x_SuperHeterodinoWIP3.png"],
+        "tipo": "Render",
+        "info": ["Blender Internal", " Blender + GIMP"]
+    },
+	
+	
 	{
         "nombre": "Santuario de las Lajas - Tour Virtual",
         "name": "Santuario de las Lajas - Virtual Tour",
@@ -192,24 +194,7 @@
         "fecha": "2019"
     },
 
-    {
-        "nombre": "Edificios Low Poly 1",
-        "name": "Low Poly Buildings 1",
-        "mainimg": "ALowPolyBuildings1p.png",
-        "secondaryimgs": ["ALowPolyBuildings1-1.png", "ALowPolyBuildings1-2.png", "ALowPolyBuildings1-3.png"],
-        "tipo": "Asset",
-        "info": [" Videogame - Model + Textures", " Blender + GIMP"],
-        "fecha": "2016"
-    },
-    {
-        "nombre": "Edificios Low Poly 2",
-        "name": "Low Poly Buildings 2",
-        "mainimg": "ALowPolyBuildings2p.png",
-        "secondaryimgs": ["ALowPolyBuildings2-1.png", "ALowPolyBuildings2-2.png", "ALowPolyBuildings2-3.png", "ALowPolyBuildings2-4.png", "ALowPolyBuildings2-5.png"],
-        "tipo": "Asset",
-        "info": [" Videogame - Model + Textures", " Blender + GIMP"],
-        "fecha": "2016"
-    },
+	
      {
         "nombre": "Portaviones",
         "name": "Aircraft Carrier",
@@ -258,24 +243,22 @@
         "fecha": "2018"
     },
     {
-        "nombre": "Jet Super Etendard",
-        "name": "Sea Harrier Jet",
-        "mainimg": "AJetHarrierp.png",
-        "secondaryimgs": ["AJetHarrier.png", "AJetHarrierw.png", "AJetHarrier1.png"],
+        "nombre": "Edificios Low Poly 1",
+        "name": "Low Poly Buildings 1",
+        "mainimg": "ALowPolyBuildings1p.png",
+        "secondaryimgs": ["ALowPolyBuildings1-1.png", "ALowPolyBuildings1-2.png", "ALowPolyBuildings1-3.png"],
         "tipo": "Asset",
-        "prev3d": "https://sketchfab.com/models/8SCuItKo1vGFufTFYHCkHbjtguA/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
-        "info": [" Videogame - Low Poly Model + Textures", " Blender + GIMP"],
-        "fecha": "2015"
+        "info": [" Videogame - Model + Textures", " Blender + GIMP"],
+        "fecha": "2016"
     },
     {
-        "nombre": "Jet Super Etendard",
-        "name": "Super Etendard Jet",
-        "mainimg": "AJetSuperEp.png",
-        "secondaryimgs": ["AJetSuperE.png", "AJetSuperEw.png", "AJetSuperE1.png"],
+        "nombre": "Edificios Low Poly 2",
+        "name": "Low Poly Buildings 2",
+        "mainimg": "ALowPolyBuildings2p.png",
+        "secondaryimgs": ["ALowPolyBuildings2-1.png", "ALowPolyBuildings2-2.png", "ALowPolyBuildings2-3.png", "ALowPolyBuildings2-4.png", "ALowPolyBuildings2-5.png"],
         "tipo": "Asset",
-        "prev3d": "https://sketchfab.com/models/nhEuNJ1qmbw31iDT2SV3nXYDFB3/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
-        "info": [" Videogame - Low Poly Model + Textures", "  Blender + GIMP"],
-        "fecha": "2015"
+        "info": [" Videogame - Model + Textures", " Blender + GIMP"],
+        "fecha": "2016"
     },
     {
         "nombre": "Cuarto Low Poly",
@@ -285,6 +268,25 @@
         "tipo": "Asset",
         "info": [" Videogame - Low Poly Model + Textures", "  Blender + GIMP"],
         "fecha": "2018"
+    },
+    {
+        "nombre": "Computador",
+        "name": "Computer",
+        "mainimg": "ACPUp.png",
+        "secondaryimgs": ["ACPUWIP1.png", "ACPUWIP2.png", "ACPUWIP3.png", "ACPUWIP4.png", "ACPUWIP5.png"],
+        "tipo": "Asset",
+        "info": [" Videogame - Low Poly Model + Textures", "  Blender + GIMP"],
+        "fecha": "2013"
+    },
+    {
+        "nombre": "Pistola - Walther P99",
+        "name": "Pistol - Walther P99",
+        "mainimg": "AP99p.png",
+        "secondaryimgs": ["AP99Wip1.png", "AP99Wipw.png", "AP99Wip2.png"],
+        "prev3d": "https://p3d.in/e/iSE8X+spin+load",
+        "tipo": "Asset",
+        "info": [" Videogame - Low Poly Model + Textures", "  Blender + GIMP"],
+        "fecha": "2019"
     },
     {
         "nombre": "Altavoz BOSE",
@@ -317,23 +319,24 @@
         "fecha": "2013"
     },
     {
-        "nombre": "Computador",
-        "name": "Computer",
-        "mainimg": "ACPUp.png",
-        "secondaryimgs": ["ACPUWIP1.png", "ACPUWIP2.png", "ACPUWIP3.png", "ACPUWIP4.png", "ACPUWIP5.png"],
+        "nombre": "Jet Super Etendard",
+        "name": "Sea Harrier Jet",
+        "mainimg": "AJetHarrierp.png",
+        "secondaryimgs": ["AJetHarrier.png", "AJetHarrierw.png", "AJetHarrier1.png"],
         "tipo": "Asset",
-        "info": [" Videogame - Low Poly Model + Textures", "  Blender + GIMP"],
-        "fecha": "2013"
+        "prev3d": "https://sketchfab.com/models/8SCuItKo1vGFufTFYHCkHbjtguA/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
+        "info": [" Videogame - Low Poly Model + Textures", " Blender + GIMP"],
+        "fecha": "2015"
     },
     {
-        "nombre": "Pistola - Walther P99",
-        "name": "Pistol - Walther P99",
-        "mainimg": "AP99p.png",
-        "secondaryimgs": ["AP99Wip1.png", "AP99Wipw.png", "AP99Wip2.png"],
-        "prev3d": "https://p3d.in/e/iSE8X+spin+load",
+        "nombre": "Jet Super Etendard",
+        "name": "Super Etendard Jet",
+        "mainimg": "AJetSuperEp.png",
+        "secondaryimgs": ["AJetSuperE.png", "AJetSuperEw.png", "AJetSuperE1.png"],
         "tipo": "Asset",
+        "prev3d": "https://sketchfab.com/models/nhEuNJ1qmbw31iDT2SV3nXYDFB3/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
         "info": [" Videogame - Low Poly Model + Textures", "  Blender + GIMP"],
-        "fecha": "2019"
+        "fecha": "2015"
     },
     
 
@@ -368,15 +371,35 @@
     },
 
 
-
+	
     {
-        "nombre": "Tracking Holograma",
-        "name": "Holograph Tracking",
-        "mainimg": "NMHoloP.png",
-        "video": "https://www.youtube.com/embed/XoZqJyD-T_o",
+        "nombre": "Evolucion del Covid-19 en Colombia",
+        "name": "Covid-19 Evolution - Colombia",
+        "mainimg": "NMCovi.jpg",
+        "front": 6,
+        "video": "https://www.youtube.com/embed/Kbsiaa9vYX0",
         "tipo": "Animacion",
-        "info": [" Tracking Test"],
-        "fecha": "2014"
+        "info": ["Data Visualization - Blender Python API"],
+        "fecha": "2021"
+    },
+    {
+        "nombre": "Animacion Bomba Atomica",
+        "name": "Nuke Animation",
+        "mainimg": "NMNukeP.png",
+        "video": "https://www.youtube.com/embed/SWNP1IK4Dkw",
+        "tipo": "Animacion",
+        "info": [" Blender Render Animation"],
+        "fecha": "2015"
+    },
+    {
+        "nombre": "Conflicto Armado en Colombia",
+        "name": "Colombian Armed Conflict",
+        "mainimg": "NMCovi.jpg",
+        "front": 6,
+        "video": "https://www.youtube.com/embed/1U1px9ngW3w",
+        "tipo": "Animacion",
+        "info": ["Blender Python Renders"],
+        "fecha": "2021"
     },
     {
         "nombre": "Guerrero Vikingo",
@@ -386,6 +409,15 @@
         "tipo": "Animacion",
         "info": [" Character Animation"],
         "fecha": "2016"
+    },
+    {
+        "nombre": "Tracking Holograma",
+        "name": "Holograph Tracking",
+        "mainimg": "NMHoloP.png",
+        "video": "https://www.youtube.com/embed/XoZqJyD-T_o",
+        "tipo": "Animacion",
+        "info": [" Tracking Test"],
+        "fecha": "2014"
     },
     {
         "nombre": "Intro Champions League Javeriano",
@@ -431,24 +463,5 @@
         "tipo": "Animacion",
         "info": [" Blender Render Animation"],
         "fecha": "2013"
-    },
-    {
-        "nombre": "Animacion Bomba Atomica",
-        "name": "Nuke Animation",
-        "mainimg": "NMNukeP.png",
-        "video": "https://www.youtube.com/embed/SWNP1IK4Dkw",
-        "tipo": "Animacion",
-        "info": [" Blender Render Animation"],
-        "fecha": "2015"
-    },
-    {
-        "nombre": "Evolucion del Covid-19 en Colombia",
-        "name": "Covid-19 Evolution - Colombia",
-        "mainimg": "NMCovi.jpg",
-        "front": 6,
-        "video": "https://www.youtube.com/embed/Kbsiaa9vYX0",
-        "tipo": "Animacion",
-        "info": ["Data Visualization - Blender Python API"],
-        "fecha": "2021"
     }
 ]
