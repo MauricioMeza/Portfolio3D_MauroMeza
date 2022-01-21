@@ -383,22 +383,13 @@
         "fecha": "2021"
     },
     {
-        "nombre": "Animacion Bomba Atomica",
-        "name": "Nuke Animation",
-        "mainimg": "NMNukeP.png",
-        "video": "https://www.youtube.com/embed/SWNP1IK4Dkw",
-        "tipo": "Animacion",
-        "info": [" Blender Render Animation"],
-        "fecha": "2015"
-    },
-    {
         "nombre": "Conflicto Armado en Colombia",
         "name": "Colombian Armed Conflict",
-        "mainimg": "NMCovi.jpg",
+        "mainimg": "NMcol.jpg",
         "front": 6,
         "video": "https://www.youtube.com/embed/1U1px9ngW3w",
         "tipo": "Animacion",
-        "info": ["Blender Python Renders"],
+        "info": ["Blender Animation"],
         "fecha": "2021"
     },
     {
@@ -409,6 +400,15 @@
         "tipo": "Animacion",
         "info": [" Character Animation"],
         "fecha": "2016"
+    },
+    {
+        "nombre": "Animacion Bomba Atomica",
+        "name": "Nuke Animation",
+        "mainimg": "NMNukeP.png",
+        "video": "https://www.youtube.com/embed/SWNP1IK4Dkw",
+        "tipo": "Animacion",
+        "info": [" Blender Render Animation"],
+        "fecha": "2015"
     },
     {
         "nombre": "Tracking Holograma",
